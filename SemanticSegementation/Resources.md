@@ -66,7 +66,7 @@
 	<td>Martin Thoma</td>
 	<td>A Survey of Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Zeiler','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Zeiler','review')">Review</a>]</p></td>
 	<td>2016</td>
-	<td><a href="https://arxiv.org/pdf/1602.06541.pdf">DOI</a> &nbsp;</td>
+	<td><a href="https://arxiv.org/pdf/1602.06541.pdf">Link</a> &nbsp;</td>
 	<td>book</td>
 	<td>incollection</td>
 	
