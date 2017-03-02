@@ -3,7 +3,7 @@
 <title>References</title>
 
 <table id="qs_table" border="1">
-<thead><tr><th width="3%">Index</th><th width="20%">Author</th><th width="30%">Title</th><th width="5%">Year</th><th width="27%">Hyperlink</th><th width="10%">Reftype</th><th width="5%">DOI/URL</th></tr></thead>
+<thead><tr><th width="3%">Index</th><th width="20%">Author</th><th width="20%">Title</th><th width="5%">Year</th></tr></thead>
 <tbody>
 
 <tr id="id1" class="parent">
