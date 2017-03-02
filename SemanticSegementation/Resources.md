@@ -53,10 +53,7 @@
 </tr>
 <tr id="rev_Scharstein" class="review noshow">
 	<td colspan="7"><b>Review</b>: 
-	<ul>
-	  <li>With bundle adjustment perfect images are produced. </li>
-	  <li>Block diagram of how images are produced. (various techniques shown)</li>
-	</ul></td>
+	</td>
 </tr>
 
 <tr id="id3" class="parent">
@@ -71,7 +68,7 @@
 	<td>2016</td>
 	<td>book</td>
 	<td>incollection</td>
-	<td><a href="https://arxiv.org/pdf/1406.2283v1.pdf">DOI</a> &nbsp;</td>
+	<td><a href="https://arxiv.org/pdf/1602.06541.pdf">DOI</a> &nbsp;</td>
 </tr>
 <tr id="abs_Thoma" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
@@ -95,22 +92,7 @@ given.
 	  <li>Uses CNNs to extract local and global component in a very efficient and simple way. </li>
 	</ul></td>
 </tr>
-<tr id="bib_Zeiler" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@incollection{NIPS2014_5539,
-title = {Depth Map Prediction from a Single Image using a Multi-Scale Deep Network},
-author = {Eigen, David and Puhrsch, Christian and Fergus, Rob},
-booktitle = {Advances in Neural Information Processing Systems 27},
-editor = {Z. Ghahramani and M. Welling and C. Cortes and N. D. Lawrence and K. Q. Weinberger},
-pages = {2366--2374},
-year = {2014},
-publisher = {Curran Associates, Inc.},
-url = {http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network.pdf}
-}
-</pre>
-</td>
-</tr>
+
 
 <tr id="Fischer" class="entry">
 	<td>2. b</td>
