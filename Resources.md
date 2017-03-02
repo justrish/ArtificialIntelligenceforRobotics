@@ -34,9 +34,9 @@
 	<td colspan="7"><b>Abstract</b>: 
 	<ul>
 <li> 1. What is semantic segmentation?</li>
-	<li>	What is segmentation in the first place?</li>
-	<li>	What is semantic segmentation?</li>
-	<li>	Why semantic segmentation</li>
+	+<li>	What is segmentation in the first place?</li>
+	+<li>	What is semantic segmentation?</li>
+	+<li>	Why semantic segmentation</li>
 <li> 2. Deep Learning in Segmentation</li>
 	<li>	Semantic Segmentation before Deep Learning</li>
 	<li>	Conditional Random Fields</li>
