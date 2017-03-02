@@ -29,6 +29,7 @@
 	<td>1. c</td>
 	<td>TINGWU WANG</td>
 	<td>Intro to Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('TINGWU WANG','review')">Review</a>] 
+	<td>2016</td>
 	<td><a href="http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf">DOI</a> &nbsp;</td>
 </tr>
 <tr id="abs_Scharstein" class="abstract noshow">
