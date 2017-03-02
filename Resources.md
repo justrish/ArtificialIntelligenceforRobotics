@@ -33,16 +33,19 @@
 <tr id="abs_Scharstein" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
 	<ul>
-We present a structured lighting system for creating highresolution
-stereo datasets of static indoor scenes with highly accurate
-ground-truth disparities. The system includes novel techniques for effi-
-cient 2D subpixel correspondence search and self-calibration of cameras
-and projectors with modeling of lens distortion. Combining disparity
-estimates from multiple projector positions we are able to achieve a disparity
-accuracy of 0.2 pixels on most observed surfaces, including in halfoccluded
-regions. We contribute 33 new 6-megapixel datasets obtained
-with our system and demonstrate that they present new challenges for
-the next generation of stereo algorithms
+1. What is semantic segmentation?
+	1. What is segmentation in the first place?
+	2. What is semantic segmentation?
+	3. Why semantic segmentation
+2. Deep Learning in Segmentation
+	1. Semantic Segmentation before Deep Learning
+	2. Conditional Random Fields
+	3. A Brief Review on Detection
+	4. Fully Convolutional Network
+3. Discussions and Demos
+	1. Demos of CNN + CRF
+	2. Segmentation from Natural Language Expression
+	3. Make CRF Great Again?
 	</ul>
 	</td>
 </tr>
