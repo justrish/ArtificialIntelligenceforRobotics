@@ -15,14 +15,14 @@
     <td colspan="6"> Database: </td>
 </tr>
 
-<tr id="stereo_database1" class="entry">
+<tr id="segmentation_database1" class="entry">
 	<td>1. a</td>
-	<td colspan="6"><a href="http://vision.middlebury.edu/stereo/data/scenes2014/"> Stereo Database 1</a> &nbsp;</td>
+	<td colspan="6"><a href=""> Semantic Segmentation Dataset 1</a> &nbsp;</td>
 </tr>
 
-<tr id="stereo_database2" class="entry">
+<tr id="segmentation_database2" class="entry">
 	<td>1. b</td>
-	<td colspan="6"><a href="https://github.com/LouisFoucard/DepthMap_dataset"> Stereo Database 2 created using blender</a> &nbsp;</td>
+	<td colspan="6"><a href=""> Semantic Segmentation Dataset 2</a> &nbsp;</td>
 </tr>
 
 <tr id="Scharstein" class="entry">
