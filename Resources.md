@@ -25,14 +25,10 @@
 	<td colspan="6"><a href=""> Semantic Segmentation Dataset 2</a> &nbsp;</td>
 </tr>
 
-<tr id="Scharstein" class="entry">
+<tr id="TINGWU WANG" class="entry">
 	<td>1. c</td>
-	<td>Scharstein</td>
-	<td>High-Resolution Stereo Datasets with Subpixel-Accurate Ground Truth <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Scharstein','review')">Review</a>] [<a href="javascript:toggleInfo('Scharstein','bibtex')">BibTeX</a>]</p></td>
-	<td>2014</td>
-	<td>GCPR</td>
-	<td>INPROCEEDINGS</td>
-	<td><a href="http://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf">DOI</a> &nbsp;</td>
+	<td>TINGWU WANG</td>
+	<td>Intro to Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('TINGWU WANG','review')">Review</a>] [<a href="javascript:toggleInfo('Scharstein','bibtex')">BibTeX</a>]
 </tr>
 <tr id="abs_Scharstein" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
