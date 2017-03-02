@@ -29,6 +29,7 @@
 	<td>1. c</td>
 	<td>TINGWU WANG</td>
 	<td>Intro to Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('TINGWU WANG','review')">Review</a>] 
+	<td><a href="http://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf">DOI</a> &nbsp;</td>
 </tr>
 <tr id="abs_Scharstein" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
@@ -62,30 +63,28 @@
     <td colspan="6"> Deep Learning: </td>
 </tr>
 
-<tr id="Zeiler" class="entry">
+<tr id="Thoma" class="entry">
 	<td>2. a</td>
-	<td>Eigen, David and Puhrsch, Christian and Fergus, Rob</td>
-	<td>Depth Map Prediction from a Single Image using a Multi-Scale Deep Network <p class="infolinks">[<a href="javascript:toggleInfo('Zeiler','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Zeiler','review')">Review</a>] [<a href="javascript:toggleInfo('Zeiler','bibtex')">BibTeX</a>]</p></td>
-	<td>2014</td>
+	<td>Martin Thoma</td>
+	<td>A Survey of Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Zeiler','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Zeiler','review')">Review</a>]</p></td>
+	<td>2016</td>
 	<td>book</td>
 	<td>incollection</td>
 	<td><a href="https://arxiv.org/pdf/1406.2283v1.pdf">DOI</a> &nbsp;</td>
 </tr>
-<tr id="abs_Zeiler" class="abstract noshow">
+<tr id="abs_Thoma" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
-	<ul>
-Predicting depth is an essential component in understanding the 3D geometry of
-a scene. While for stereo images local correspondence suffices for estimation,
-finding depth relations from a single image is less straightforward, requiring integration
-of both global and local information from various cues. Moreover, the
-task is inherently ambiguous, with a large source of uncertainty coming from the
-overall scale. In this paper, we present a new method that addresses this task by
-employing two deep network stacks: one that makes a coarse global prediction
-based on the entire image, and another that refines this prediction locally. We also
-apply a scale-invariant error to help measure depth relations rather than scale. By
-leveraging the raw datasets as large sources of training data, our method achieves
-state-of-the-art results on both NYU Depth and KITTI, and matches detailed depth
-boundaries without the need for superpixelation.
+	<ul>This survey gives an overview over different
+techniques used for pixel-level semantic segmentation.
+Metrics and datasets for the evaluation of segmentation
+algorithms and traditional approaches for segmentation
+such as unsupervised methods, Decision Forests
+and SVMs are described and pointers to the relevant
+papers are given. Recently published approaches with
+convolutional neural networks are mentioned and typical
+problematic situations for segmentation algorithms are
+examined. A taxonomy of segmentation algorithms is
+given.
 	</ul>
 	</td>
 </tr>
