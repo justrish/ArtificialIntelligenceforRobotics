@@ -34,18 +34,18 @@
 	<td colspan="7"><b>Abstract</b>: 
 	<ul>
 <li> 1. What is semantic segmentation?</li>
-<li><p>What is segmentation in the first place?</p></li>
-	<li>What is semantic segmentation?</li>
-	<li>Why semantic segmentation</li>
+	+ What is segmentation in the first place?
+	+ What is semantic segmentation?
+	+ Why semantic segmentation
 <li> 2. Deep Learning in Segmentation</li>
-	<li>		Semantic Segmentation before Deep Learning</li>
-	<li>		Conditional Random Fields</li>
-	<li>		A Brief Review on Detection</li>
-	<li>		Fully Convolutional Network</li>
+	+ Semantic Segmentation before Deep Learning
+	+ Conditional Random Fields
+	+ A Brief Review on Detection
+	+ Fully Convolutional Network
 <li> 3. Discussions and Demos</li>
-	<li>		Demos of CNN + CRF</li>
-	<li>		Segmentation from Natural Language Expression</li>
-	<li>		Make CRF Great Again?</li>
+	+ Demos of CNN + CRF
+	+ Segmentation from Natural Language Expression
+	+ Make CRF Great Again?
 	</ul>
 	</td>
 </tr>
