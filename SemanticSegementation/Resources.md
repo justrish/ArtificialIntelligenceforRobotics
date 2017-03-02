@@ -123,13 +123,45 @@ high for the deployment in autonomous vehicles.
 	</ul>
 	</td>
 </tr>
-<tr id="rev_Fischer" class="review noshow">
+<tr id="rev_Treml" class="review noshow">
 	<td colspan="7"><b>Review</b>: 
 	<ul>
 	  <li>Uses CNN for optical flow. </li>
 	</ul></td>
 </tr>
 
+
+<tr id="Treml" class="entry">
+	<td>2. b</td>
+	<td>Saumitro Dasgupta </td>
+	<td>Object Detection for Semantic SLAM using Convolution Neural Networks <p class="infolinks">[<a href="javascript:toggleInfo('Treml','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Treml','review')">Review</a>] </p></td>
+	<td>2014</td>
+	<td><a href="http://cs229.stanford.edu/proj2014/Saumitro%20Dasgupta,%20Object%20Detection%20for%20Semantic%20SLAM%20using%20Convolutional%20Neural%20Networks.pdf">Link</a> &nbsp;</td>
+	<td>Stanford</td>
+	<td></td>
+	
+</tr>
+<tr id="abs_Treml" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: 
+	<ul>
+Conventional SLAM (Simultaneous Localization and Mapping) systems typically provide odometry estimates
+and point-cloud reconstructions of an unknown environment. While these outputs can be used for
+tasks such as autonomous navigation, they lack any semantic information. Our project implements a modular
+object detection framework that can be used in conjunction with a SLAM engine to generate semantic
+scene reconstructions. A semantically-augmented reconstruction has many
+potential applications. Some examples include: 
+• Discriminating between pedestrians, cars, bicyclists, etc in an autonomous driving system.
+• Loop-closure detection based on object-level descriptors. 
+• Smart household bots that can retrieve objects given a natural language command.
+	</ul>
+	</td>
+</tr>
+<tr id="rev_Treml" class="review noshow">
+	<td colspan="7"><b>Review</b>: 
+	<ul>
+	  <li>Uses CNN for optical flow. </li>
+	</ul></td>
+</tr>
 
 
 </tbody>
