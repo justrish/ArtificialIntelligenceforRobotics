@@ -34,7 +34,7 @@
 	<td colspan="7"><b>Abstract</b>: 
 	<ul>
 <li> 1. What is semantic segmentation?</li>
-<p>+ What is segmentation in the first place?</p>
+<li>+ What is segmentation in the first place?</li>
 	+ What is semantic segmentation?
 	+ Why semantic segmentation
 <li> 2. Deep Learning in Segmentation</li>
