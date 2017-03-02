@@ -28,7 +28,7 @@
 <tr id="TINGWU WANG" class="entry">
 	<td>1. c</td>
 	<td>TINGWU WANG</td>
-	<td>Intro to Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('TINGWU WANG','review')">Review</a>] [<a href="javascript:toggleInfo('Scharstein','bibtex')">BibTeX</a>]
+	<td>Intro to Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Scharstein','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('TINGWU WANG','review')">Review</a>] 
 </tr>
 <tr id="abs_Scharstein" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
@@ -52,33 +52,6 @@ the next generation of stereo algorithms
 	  <li>With bundle adjustment perfect images are produced. </li>
 	  <li>Block diagram of how images are produced. (various techniques shown)</li>
 	</ul></td>
-</tr>
-<tr id="bib_Scharstein" class="bibtex noshow">
-<td colspan="7"><b>BibTeX</b>:
-<pre>
-@inproceedings{conf/dagm/ScharsteinHKKNWW14,
-  added-at = {2014-10-15T00:00:00.000+0200},
-  author = {Scharstein, Daniel and Hirschmüller, Heiko and Kitajima, York and Krathwohl, Greg and Nesic, Nera and Wang, Xi and Westling, Porter},
-  biburl = {http://www.bibsonomy.org/bibtex/2c6647ae773975aa5e48a8b29737478ab/dblp},
-  booktitle = {GCPR},
-  crossref = {conf/dagm/2014},
-  editor = {Jiang, Xiaoyi and Hornegger, Joachim and Koch, Reinhard},
-  ee = {http://dx.doi.org/10.1007/978-3-319-11752-2_3},
-  interhash = {5474bf4e60bdf8fe8b595af37dfd7367},
-  intrahash = {c6647ae773975aa5e48a8b29737478ab},
-  isbn = {978-3-319-11751-5},
-  keywords = {dblp},
-  pages = {31-42},
-  publisher = {Springer},
-  series = {Lecture Notes in Computer Science},
-  timestamp = {2015-06-18T22:44:59.000+0200},
-  title = {High-Resolution Stereo Datasets with Subpixel-Accurate Ground Truth.},
-  url = {http://dblp.uni-trier.de/db/conf/dagm/gcpr2014.html#ScharsteinHKKNWW14},
-  volume = 8753,
-  year = 2014
-}
-</pre>
-</td>
 </tr>
 
 <tr id="id3" class="parent">
