@@ -100,7 +100,7 @@ given.
 	<td>Michael Treml, José Arjona-Medina, Thomas Unterthiner, Rupesh Durgesh2, </td>
 	<td>Speeding up Semantic Segmentation for Autonomous Driving <p class="infolinks">[<a href="javascript:toggleInfo('Treml','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Treml','review')">Review</a>] </p></td>
 	<td>2016</td>
-	<td><a href="https://openreview.net/pdf?id=S1uHiFyyg">DOI</a> &nbsp;</td>
+	<td><a href="https://openreview.net/pdf?id=S1uHiFyyg">Link</a> &nbsp;</td>
 	<td>(NIPS 2016)</td>
 	<td>29th Conference on Neural Information Processing Systems, Barcelona, Spain</td>
 	
