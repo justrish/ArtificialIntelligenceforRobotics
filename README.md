@@ -1,5 +1,5 @@
 # Parent Repository: Computer Vision
-Consists of multiple source code or projects devloped or currently working in the application areas of Computer Vision
+Consists of multiple source code or projects developed or currently working in the application areas of Computer Vision
 * Semantic Segmentation:  
 Project starting work on for Pattern Recognition course
 * ArtificialIntelligenceforRobotics :
