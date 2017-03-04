@@ -131,7 +131,7 @@ high for the deployment in autonomous vehicles.
 </tr>
 
 
-<tr id="Treml" class="entry">
+<tr id="Saumitro" class="entry">
 	<td>2. b</td>
 	<td>Saumitro Dasgupta </td>
 	<td>Object Detection for Semantic SLAM using Convolution Neural Networks <p class="infolinks">[<a href="javascript:toggleInfo('Treml','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Treml','review')">Review</a>] </p></td>
@@ -141,7 +141,7 @@ high for the deployment in autonomous vehicles.
 	<td></td>
 	
 </tr>
-<tr id="abs_Treml" class="abstract noshow">
+<tr id="abs_Saumitro" class="abstract noshow">
 	<td colspan="7"><b>Abstract</b>: 
 	<ul>
 Conventional SLAM (Simultaneous Localization and Mapping) systems typically provide odometry estimates
@@ -156,14 +156,81 @@ potential applications. Some examples include:
 	</ul>
 	</td>
 </tr>
-<tr id="rev_Treml" class="review noshow">
+<tr id="rev_Saumitro" class="review noshow">
 	<td colspan="7"><b>Review</b>: 
 	<ul>
-	  <li>Uses CNN for optical flow. </li>
+	  <li> </li>
 	</ul></td>
 </tr>
+<tr id="Darrell" class="entry">
+	<td>2. b</td>
+	<td>Jonathan Long∗ Evan Shelhamer∗ Trevor Darrell</td>
+	<td>Fully Convolutional Networks for Semantic Segmentation <p class="infolinks">[<a href="javascript:toggleInfo('Treml','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Treml','review')">Review</a>] </p></td>
+	<td>2015</td>
+	<td><a href="https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">Link</a> &nbsp;</td>
+	<td>Berkley</td>
+	<td></td>
+	
+</tr>
+<tr id="abs_Darrell" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: 
+	<ul>
+Convolutional networks are powerful visual models that
+yield hierarchies of features. We show that convolutional
+networks by themselves, trained end-to-end, pixelsto-pixels,
+exceed the state-of-the-art in semantic segmentation.
+Our key insight is to build “fully convolutional”
+networks that take input of arbitrary size and produce
+correspondingly-sized output with efficient inference and
+learning. We define and detail the space of fully convolutional
+networks, explain their application to spatially dense
+prediction tasks, and draw connections to prior models. We
+adapt contemporary classification networks (AlexNet [22],
+the VGG net [34], and GoogLeNet [35]) into fully convolutional
+networks and transfer their learned representations
+by fine-tuning [5] to the segmentation task. We then define a
+skip architecture that combines semantic information from
+a deep, coarse layer with appearance information from a
+shallow, fine layer to produce accurate and detailed segmentations.
+Our fully convolutional network achieves stateof-the-art
+segmentation of PASCAL VOC (20% relative improvement
+to 62.2% mean IU on 2012), NYUDv2, and SIFT
+Flow, while inference takes less than one fifth of a second
+for a typical image.
 
+	</ul>
+	</td>
+</tr>
+<tr id="rev_Darell" class="review noshow">
+	<td colspan="7"><b>Review</b>: 
+	<ul>
+	  <li> </li>
+	</ul></td>
+</tr>
+<tr id="Bearman" class="entry">
+	<td>2. b</td>
+	<td>Amy Bearman, Olga Russakovsky, Vitto Ferrari, Li Fei-Fei1</td>
+	<td>What's the Point: Semantic Segmentation with Point Supervision <p class="infolinks">[<a href="javascript:toggleInfo('Treml','abstract')">Abstract</a>] [<a href="javascript:toggleInfo('Treml','review')">Review</a>] </p></td>
+	<td>2016</td>
+	<td><a href="https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf">Link</a> &nbsp;</td>
+	<td>Stanford, Berkley</td>
+	<td></td>
+	
+</tr>
+<tr id="abs_Bearman" class="abstract noshow">
+	<td colspan="7"><b>Abstract</b>: 
+	<ul>
+The semantic image segmentation task presents a trade-off between test time accuracy and training-time annotation cost. Detailed per-pixel annotations enable training accurate models but are very time-consuming to obtain; image-level class labels are an order of magnitude cheaper but result in less accurate models. We take a natural step from image-level annotation towards stronger supervision: we ask annotators to point to an object if one exists. We incorporate this point supervision along with a novel objectness potential in the training loss function of a CNN model. Experimental results on the PASCAL VOC 2012 benchmark reveal that the combined effect of point-level supervision and objectness potential yields an improvement of 12.9% mIOU over image-level supervision. Further, we demonstrate that models trained with point-level supervision are more accurate than models trained with image-level, squiggle-level or full supervision given a fixed annotation budget.
 
+	</ul>
+	</td>
+</tr>
+<tr id="rev_Bearman" class="review noshow">
+	<td colspan="7"><b>Review</b>: 
+	<ul>
+	  <li> </li>
+	</ul></td>
+</tr>
 </tbody>
 </table>
 
