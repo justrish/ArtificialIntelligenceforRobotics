@@ -235,3 +235,5 @@ The semantic image segmentation task presents a trade-off between test time accu
 </table>
 
 https://github.com/mrgloom/Semantic-Segmentation-Evaluation
+https://github.com/NVIDIA/DIGITS/blob/master/docs/UbuntuInstall.md
+
