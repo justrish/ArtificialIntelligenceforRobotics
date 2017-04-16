@@ -1,0 +1,18 @@
+Annotation Tool :
+
+GAT ( Graphic Annotation tool) which is distributed as java application and works on still images for segmentation dataset annotations.
+1: Extract the video frames using a frame extractor (e.g: ffmpeg)
+ffmpeg -i Video.mpg frame%d.jpg
+2: Download and launch GAT with Sun's Java Web Start
+3: Create a new annotation session choosing an existing ontology or creating a new on with the ontology editor on the main toolbar  Ontology editor button
+4: Select Sequence Annotator Perspective. Add all frames using Add Images button on the main toolbar.  Add Images button If the user works with videos, the frame extraction is a prerequisite step to join the tool.
+5: Select the semantic class to be instanced in the tree
+6: Go to the thumbnail panel and select the first and the last image of the first scene of the sequence that contains the object.
+7: Right click on an image of the selected scene where is going to extract the object to be tracked in the rest of the images. A dialog that contains the whole image appears.
+8: Drag the mouse to draw conveniently a rectangle around the desired object.
+9: Right click to call the tool that performs the region-based segmentation of the defined rectangle and its representation through a hierarchical partition tree.
+10: Choose one interactive segmentation technique and extract the desired object.
+11: Right click to run the object tracker tool. The dialog disappears and the thumbnail panel will be showed again but noy displaying the results o the tracking tool.
+12: Repeat from step 5 to step 10 for the rest of scenes of the sequence that contain the object.
+13: Select the validate button  Validate button to validate the annotation
+If you have any trouble go to the main's page "Watch it work" to see the video guide or the manual
