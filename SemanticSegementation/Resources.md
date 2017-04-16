@@ -234,3 +234,4 @@ The semantic image segmentation task presents a trade-off between test time accu
 </tbody>
 </table>
 
+https://github.com/mrgloom/Semantic-Segmentation-Evaluation
