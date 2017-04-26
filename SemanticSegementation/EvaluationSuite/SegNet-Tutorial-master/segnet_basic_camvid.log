@@ -1,0 +1,1167 @@
+/home/rish/caffe-segnet-cudnn5-master/SegNet-Tutorial-master/Models/segnet_basic_camvid
+      Grabbed camera frame in  8.53300094604 ms
+          Preprocess image in  0.391960144043 ms
+           Executed SegNet in  544.72899437 ms
+         Processed results in  7.8239440918 ms
+
+      Grabbed camera frame in  7.66706466675 ms
+          Preprocess image in  0.341176986694 ms
+           Executed SegNet in  497.676849365 ms
+         Processed results in  7.62510299683 ms
+
+      Grabbed camera frame in  7.92002677917 ms
+          Preprocess image in  0.3662109375 ms
+           Executed SegNet in  498.263120651 ms
+         Processed results in  7.83514976501 ms
+
+      Grabbed camera frame in  8.09001922607 ms
+          Preprocess image in  0.36096572876 ms
+           Executed SegNet in  498.855113983 ms
+         Processed results in  8.56995582581 ms
+
+      Grabbed camera frame in  8.04400444031 ms
+          Preprocess image in  0.343799591064 ms
+           Executed SegNet in  497.395992279 ms
+         Processed results in  7.57098197937 ms
+
+      Grabbed camera frame in  7.96604156494 ms
+          Preprocess image in  0.351190567017 ms
+           Executed SegNet in  498.448848724 ms
+         Processed results in  7.74693489075 ms
+
+      Grabbed camera frame in  7.94887542725 ms
+          Preprocess image in  0.352144241333 ms
+           Executed SegNet in  498.765945435 ms
+         Processed results in  7.63607025146 ms
+
+      Grabbed camera frame in  7.73811340332 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  499.413013458 ms
+         Processed results in  7.62701034546 ms
+
+      Grabbed camera frame in  7.89999961853 ms
+          Preprocess image in  0.314950942993 ms
+           Executed SegNet in  500.288963318 ms
+         Processed results in  7.57598876953 ms
+
+      Grabbed camera frame in  8.02397727966 ms
+          Preprocess image in  0.326871871948 ms
+           Executed SegNet in  501.477003098 ms
+         Processed results in  7.58385658264 ms
+
+      Grabbed camera frame in  7.88807868958 ms
+          Preprocess image in  0.339984893799 ms
+           Executed SegNet in  497.282028198 ms
+         Processed results in  7.70592689514 ms
+
+      Grabbed camera frame in  7.86089897156 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  496.626138687 ms
+         Processed results in  7.56311416626 ms
+
+      Grabbed camera frame in  7.94291496277 ms
+          Preprocess image in  0.344038009644 ms
+           Executed SegNet in  496.782064438 ms
+         Processed results in  7.72905349731 ms
+
+      Grabbed camera frame in  8.05401802063 ms
+          Preprocess image in  0.349044799805 ms
+           Executed SegNet in  498.685121536 ms
+         Processed results in  7.68303871155 ms
+
+      Grabbed camera frame in  8.05401802063 ms
+          Preprocess image in  0.351905822754 ms
+           Executed SegNet in  499.420166016 ms
+         Processed results in  7.69400596619 ms
+
+      Grabbed camera frame in  7.87901878357 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  498.438119888 ms
+         Processed results in  7.83705711365 ms
+
+      Grabbed camera frame in  7.90596008301 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  499.629974365 ms
+         Processed results in  7.77292251587 ms
+
+      Grabbed camera frame in  8.10599327087 ms
+          Preprocess image in  0.365972518921 ms
+           Executed SegNet in  498.808145523 ms
+         Processed results in  7.64298439026 ms
+
+      Grabbed camera frame in  7.99608230591 ms
+          Preprocess image in  0.351905822754 ms
+           Executed SegNet in  498.22807312 ms
+         Processed results in  7.62605667114 ms
+
+      Grabbed camera frame in  8.06879997253 ms
+          Preprocess image in  0.357866287231 ms
+           Executed SegNet in  499.02510643 ms
+         Processed results in  7.58099555969 ms
+
+      Grabbed camera frame in  8.08382034302 ms
+          Preprocess image in  0.325918197632 ms
+           Executed SegNet in  499.855041504 ms
+         Processed results in  7.66706466675 ms
+
+      Grabbed camera frame in  8.06403160095 ms
+          Preprocess image in  0.329971313477 ms
+           Executed SegNet in  497.997999191 ms
+         Processed results in  7.68780708313 ms
+
+      Grabbed camera frame in  7.94315338135 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  499.150037766 ms
+         Processed results in  7.62987136841 ms
+
+      Grabbed camera frame in  7.99083709717 ms
+          Preprocess image in  0.342845916748 ms
+           Executed SegNet in  498.718976974 ms
+         Processed results in  7.75599479675 ms
+
+      Grabbed camera frame in  7.96008110046 ms
+          Preprocess image in  0.339984893799 ms
+           Executed SegNet in  499.253034592 ms
+         Processed results in  7.63297080994 ms
+
+      Grabbed camera frame in  8.61787796021 ms
+          Preprocess image in  0.355958938599 ms
+           Executed SegNet in  497.495889664 ms
+         Processed results in  7.53998756409 ms
+
+      Grabbed camera frame in  7.9939365387 ms
+          Preprocess image in  0.329971313477 ms
+           Executed SegNet in  499.902963638 ms
+         Processed results in  7.6539516449 ms
+
+      Grabbed camera frame in  8.23283195496 ms
+          Preprocess image in  0.32901763916 ms
+           Executed SegNet in  498.52514267 ms
+         Processed results in  7.69710540771 ms
+
+      Grabbed camera frame in  8.01396369934 ms
+          Preprocess image in  0.350952148438 ms
+           Executed SegNet in  499.698877335 ms
+         Processed results in  7.6150894165 ms
+
+      Grabbed camera frame in  8.35800170898 ms
+          Preprocess image in  0.334978103638 ms
+           Executed SegNet in  497.932910919 ms
+         Processed results in  7.95483589172 ms
+
+      Grabbed camera frame in  8.15200805664 ms
+          Preprocess image in  0.310182571411 ms
+           Executed SegNet in  499.353885651 ms
+         Processed results in  7.6789855957 ms
+
+      Grabbed camera frame in  8.17799568176 ms
+          Preprocess image in  0.334024429321 ms
+           Executed SegNet in  498.102903366 ms
+         Processed results in  7.69686698914 ms
+
+      Grabbed camera frame in  8.02516937256 ms
+          Preprocess image in  0.385999679565 ms
+           Executed SegNet in  499.197006226 ms
+         Processed results in  7.73692131042 ms
+
+      Grabbed camera frame in  8.08310508728 ms
+          Preprocess image in  0.321865081787 ms
+           Executed SegNet in  498.574018478 ms
+         Processed results in  7.572889328 ms
+
+      Grabbed camera frame in  7.99703598022 ms
+          Preprocess image in  0.322103500366 ms
+           Executed SegNet in  499.049186707 ms
+         Processed results in  7.63392448425 ms
+
+      Grabbed camera frame in  8.24904441833 ms
+          Preprocess image in  0.357151031494 ms
+           Executed SegNet in  497.470855713 ms
+         Processed results in  7.61413574219 ms
+
+      Grabbed camera frame in  8.10313224792 ms
+          Preprocess image in  0.340938568115 ms
+           Executed SegNet in  497.298002243 ms
+         Processed results in  7.60197639465 ms
+
+      Grabbed camera frame in  7.69901275635 ms
+          Preprocess image in  0.345945358276 ms
+           Executed SegNet in  498.260974884 ms
+         Processed results in  7.69805908203 ms
+
+      Grabbed camera frame in  7.817029953 ms
+          Preprocess image in  0.329971313477 ms
+           Executed SegNet in  499.125003815 ms
+         Processed results in  7.62486457825 ms
+
+      Grabbed camera frame in  7.9460144043 ms
+          Preprocess image in  0.321865081787 ms
+           Executed SegNet in  500.355005264 ms
+         Processed results in  7.77387619019 ms
+
+      Grabbed camera frame in  7.94291496277 ms
+          Preprocess image in  0.325918197632 ms
+           Executed SegNet in  497.694015503 ms
+         Processed results in  7.69877433777 ms
+
+      Grabbed camera frame in  8.0840587616 ms
+          Preprocess image in  0.355958938599 ms
+           Executed SegNet in  497.529983521 ms
+         Processed results in  7.72714614868 ms
+
+      Grabbed camera frame in  8.01396369934 ms
+          Preprocess image in  0.32901763916 ms
+           Executed SegNet in  498.370885849 ms
+         Processed results in  7.7109336853 ms
+
+      Grabbed camera frame in  8.03995132446 ms
+          Preprocess image in  0.361204147339 ms
+           Executed SegNet in  498.183012009 ms
+         Processed results in  7.62701034546 ms
+
+      Grabbed camera frame in  7.93695449829 ms
+          Preprocess image in  0.341892242432 ms
+           Executed SegNet in  499.232053757 ms
+         Processed results in  7.70497322083 ms
+
+      Grabbed camera frame in  7.9038143158 ms
+          Preprocess image in  0.346899032593 ms
+           Executed SegNet in  501.219034195 ms
+         Processed results in  7.76410102844 ms
+
+      Grabbed camera frame in  8.07094573975 ms
+          Preprocess image in  0.349998474121 ms
+           Executed SegNet in  500.025033951 ms
+         Processed results in  7.71498680115 ms
+
+      Grabbed camera frame in  8.04114341736 ms
+          Preprocess image in  0.327110290527 ms
+           Executed SegNet in  502.62093544 ms
+         Processed results in  7.60293006897 ms
+
+      Grabbed camera frame in  7.81178474426 ms
+          Preprocess image in  0.339031219482 ms
+           Executed SegNet in  501.55878067 ms
+         Processed results in  7.66015052795 ms
+
+      Grabbed camera frame in  7.94005393982 ms
+          Preprocess image in  0.31304359436 ms
+           Executed SegNet in  504.321098328 ms
+         Processed results in  7.62987136841 ms
+
+      Grabbed camera frame in  8.03589820862 ms
+          Preprocess image in  0.348806381226 ms
+           Executed SegNet in  501.038074493 ms
+         Processed results in  7.78889656067 ms
+
+      Grabbed camera frame in  8.04400444031 ms
+          Preprocess image in  0.381946563721 ms
+           Executed SegNet in  502.533912659 ms
+         Processed results in  7.61103630066 ms
+
+      Grabbed camera frame in  7.88593292236 ms
+          Preprocess image in  0.345945358276 ms
+           Executed SegNet in  498.623132706 ms
+         Processed results in  7.59410858154 ms
+
+      Grabbed camera frame in  7.75098800659 ms
+          Preprocess image in  0.323057174683 ms
+           Executed SegNet in  500.483989716 ms
+         Processed results in  7.67993927002 ms
+
+      Grabbed camera frame in  7.64012336731 ms
+          Preprocess image in  0.345945358276 ms
+           Executed SegNet in  499.222040176 ms
+         Processed results in  7.68303871155 ms
+
+      Grabbed camera frame in  7.65705108643 ms
+          Preprocess image in  0.32114982605 ms
+           Executed SegNet in  500.620126724 ms
+         Processed results in  7.72404670715 ms
+
+      Grabbed camera frame in  7.99107551575 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  499.104976654 ms
+         Processed results in  7.65585899353 ms
+
+      Grabbed camera frame in  7.93695449829 ms
+          Preprocess image in  0.340938568115 ms
+           Executed SegNet in  501.991987228 ms
+         Processed results in  7.60316848755 ms
+
+      Grabbed camera frame in  8.02612304688 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  500.024080276 ms
+         Processed results in  7.65800476074 ms
+
+      Grabbed camera frame in  7.81798362732 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  498.270988464 ms
+         Processed results in  7.59315490723 ms
+
+      Grabbed camera frame in  7.807970047 ms
+          Preprocess image in  0.362873077393 ms
+           Executed SegNet in  498.755931854 ms
+         Processed results in  7.64203071594 ms
+
+      Grabbed camera frame in  7.79414176941 ms
+          Preprocess image in  0.349998474121 ms
+           Executed SegNet in  498.426914215 ms
+         Processed results in  7.71188735962 ms
+
+      Grabbed camera frame in  8.17680358887 ms
+          Preprocess image in  0.322103500366 ms
+           Executed SegNet in  501.154184341 ms
+         Processed results in  7.69209861755 ms
+
+      Grabbed camera frame in  7.52401351929 ms
+          Preprocess image in  0.385999679565 ms
+           Executed SegNet in  498.366117477 ms
+         Processed results in  7.64799118042 ms
+
+      Grabbed camera frame in  7.51495361328 ms
+          Preprocess image in  0.364065170288 ms
+           Executed SegNet in  498.378038406 ms
+         Processed results in  7.60293006897 ms
+
+      Grabbed camera frame in  7.5089931488 ms
+          Preprocess image in  0.343084335327 ms
+           Executed SegNet in  502.250909805 ms
+         Processed results in  7.59792327881 ms
+
+      Grabbed camera frame in  7.12108612061 ms
+          Preprocess image in  0.348091125488 ms
+           Executed SegNet in  500.647068024 ms
+         Processed results in  7.58695602417 ms
+
+      Grabbed camera frame in  7.5159072876 ms
+          Preprocess image in  0.334024429321 ms
+           Executed SegNet in  498.469114304 ms
+         Processed results in  7.66897201538 ms
+
+      Grabbed camera frame in  7.29608535767 ms
+          Preprocess image in  0.358819961548 ms
+           Executed SegNet in  500.184059143 ms
+         Processed results in  7.68518447876 ms
+
+      Grabbed camera frame in  7.13896751404 ms
+          Preprocess image in  0.32901763916 ms
+           Executed SegNet in  502.177000046 ms
+         Processed results in  7.69281387329 ms
+
+      Grabbed camera frame in  7.30490684509 ms
+          Preprocess image in  0.408887863159 ms
+           Executed SegNet in  503.28207016 ms
+         Processed results in  7.49921798706 ms
+
+      Grabbed camera frame in  7.11297988892 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  499.933004379 ms
+         Processed results in  7.67707824707 ms
+
+      Grabbed camera frame in  6.88600540161 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  503.142118454 ms
+         Processed results in  7.71403312683 ms
+
+      Grabbed camera frame in  6.59084320068 ms
+          Preprocess image in  0.347852706909 ms
+           Executed SegNet in  498.555183411 ms
+         Processed results in  7.56812095642 ms
+
+      Grabbed camera frame in  6.64401054382 ms
+          Preprocess image in  0.338792800903 ms
+           Executed SegNet in  498.59380722 ms
+         Processed results in  7.46083259583 ms
+
+      Grabbed camera frame in  7.19499588013 ms
+          Preprocess image in  0.354051589966 ms
+           Executed SegNet in  499.288082123 ms
+         Processed results in  7.73119926453 ms
+
+      Grabbed camera frame in  6.69693946838 ms
+          Preprocess image in  0.334978103638 ms
+           Executed SegNet in  499.51505661 ms
+         Processed results in  7.58481025696 ms
+
+      Grabbed camera frame in  7.24697113037 ms
+          Preprocess image in  0.363111495972 ms
+           Executed SegNet in  500.813007355 ms
+         Processed results in  7.6801776886 ms
+
+      Grabbed camera frame in  7.39216804504 ms
+          Preprocess image in  0.334024429321 ms
+           Executed SegNet in  506.248950958 ms
+         Processed results in  7.67517089844 ms
+
+      Grabbed camera frame in  7.41910934448 ms
+          Preprocess image in  0.370025634766 ms
+           Executed SegNet in  503.871202469 ms
+         Processed results in  7.74693489075 ms
+
+      Grabbed camera frame in  7.73215293884 ms
+          Preprocess image in  0.370025634766 ms
+           Executed SegNet in  501.379966736 ms
+         Processed results in  7.49397277832 ms
+
+      Grabbed camera frame in  7.52186775208 ms
+          Preprocess image in  0.37407875061 ms
+           Executed SegNet in  499.016046524 ms
+         Processed results in  8.13317298889 ms
+
+      Grabbed camera frame in  7.48801231384 ms
+          Preprocess image in  0.358104705811 ms
+           Executed SegNet in  499.1979599 ms
+         Processed results in  7.72404670715 ms
+
+      Grabbed camera frame in  7.39288330078 ms
+          Preprocess image in  0.336885452271 ms
+           Executed SegNet in  500.268936157 ms
+         Processed results in  7.70592689514 ms
+
+      Grabbed camera frame in  7.32898712158 ms
+          Preprocess image in  0.402927398682 ms
+           Executed SegNet in  503.369092941 ms
+         Processed results in  7.63201713562 ms
+
+      Grabbed camera frame in  7.83896446228 ms
+          Preprocess image in  0.32114982605 ms
+           Executed SegNet in  499.372005463 ms
+         Processed results in  7.62915611267 ms
+
+      Grabbed camera frame in  7.53688812256 ms
+          Preprocess image in  0.331163406372 ms
+           Executed SegNet in  499.097824097 ms
+         Processed results in  7.71903991699 ms
+
+      Grabbed camera frame in  7.61795043945 ms
+          Preprocess image in  0.338077545166 ms
+           Executed SegNet in  499.907970428 ms
+         Processed results in  7.53498077393 ms
+
+      Grabbed camera frame in  7.25102424622 ms
+          Preprocess image in  0.321865081787 ms
+           Executed SegNet in  500.972986221 ms
+         Processed results in  7.60102272034 ms
+
+      Grabbed camera frame in  7.54714012146 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  504.342794418 ms
+         Processed results in  7.65895843506 ms
+
+      Grabbed camera frame in  7.52902030945 ms
+          Preprocess image in  0.339031219482 ms
+           Executed SegNet in  499.507904053 ms
+         Processed results in  7.61198997498 ms
+
+      Grabbed camera frame in  7.31301307678 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  500.576972961 ms
+         Processed results in  7.65013694763 ms
+
+      Grabbed camera frame in  7.9619884491 ms
+          Preprocess image in  0.349044799805 ms
+           Executed SegNet in  503.069877625 ms
+         Processed results in  7.66205787659 ms
+
+      Grabbed camera frame in  7.24601745605 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  502.796888351 ms
+         Processed results in  7.78388977051 ms
+
+      Grabbed camera frame in  6.94108009338 ms
+          Preprocess image in  0.344038009644 ms
+           Executed SegNet in  499.933958054 ms
+         Processed results in  7.61389732361 ms
+
+      Grabbed camera frame in  7.35402107239 ms
+          Preprocess image in  0.353097915649 ms
+           Executed SegNet in  499.587059021 ms
+         Processed results in  7.79318809509 ms
+
+      Grabbed camera frame in  7.3230266571 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  504.703998566 ms
+         Processed results in  7.53498077393 ms
+
+      Grabbed camera frame in  7.5318813324 ms
+          Preprocess image in  0.351905822754 ms
+           Executed SegNet in  500.416040421 ms
+         Processed results in  7.64012336731 ms
+
+      Grabbed camera frame in  7.79414176941 ms
+          Preprocess image in  0.320911407471 ms
+           Executed SegNet in  501.080989838 ms
+         Processed results in  7.61103630066 ms
+
+      Grabbed camera frame in  7.27486610413 ms
+          Preprocess image in  0.339031219482 ms
+           Executed SegNet in  499.289989471 ms
+         Processed results in  7.56406784058 ms
+
+      Grabbed camera frame in  7.6470375061 ms
+          Preprocess image in  0.33712387085 ms
+           Executed SegNet in  500.962972641 ms
+         Processed results in  7.57718086243 ms
+
+      Grabbed camera frame in  7.22503662109 ms
+          Preprocess image in  0.353097915649 ms
+           Executed SegNet in  503.460884094 ms
+         Processed results in  7.67207145691 ms
+
+      Grabbed camera frame in  7.16114044189 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  500.422954559 ms
+         Processed results in  7.63392448425 ms
+
+      Grabbed camera frame in  7.56907463074 ms
+          Preprocess image in  0.348091125488 ms
+           Executed SegNet in  499.615192413 ms
+         Processed results in  7.6220035553 ms
+
+      Grabbed camera frame in  7.94696807861 ms
+          Preprocess image in  0.380039215088 ms
+           Executed SegNet in  498.694896698 ms
+         Processed results in  7.65299797058 ms
+
+      Grabbed camera frame in  6.89291954041 ms
+          Preprocess image in  0.383138656616 ms
+           Executed SegNet in  500.317811966 ms
+         Processed results in  7.63297080994 ms
+
+      Grabbed camera frame in  7.62510299683 ms
+          Preprocess image in  0.359058380127 ms
+           Executed SegNet in  505.187988281 ms
+         Processed results in  7.68399238586 ms
+
+      Grabbed camera frame in  7.88283348083 ms
+          Preprocess image in  0.346899032593 ms
+           Executed SegNet in  497.811794281 ms
+         Processed results in  7.60793685913 ms
+
+      Grabbed camera frame in  8.03804397583 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  497.872114182 ms
+         Processed results in  7.8330039978 ms
+
+      Grabbed camera frame in  7.84492492676 ms
+          Preprocess image in  0.360012054443 ms
+           Executed SegNet in  499.011039734 ms
+         Processed results in  7.73906707764 ms
+
+      Grabbed camera frame in  7.68303871155 ms
+          Preprocess image in  0.370979309082 ms
+           Executed SegNet in  503.623962402 ms
+         Processed results in  7.63702392578 ms
+
+      Grabbed camera frame in  7.62391090393 ms
+          Preprocess image in  0.355958938599 ms
+           Executed SegNet in  504.307985306 ms
+         Processed results in  7.66611099243 ms
+
+      Grabbed camera frame in  7.64918327332 ms
+          Preprocess image in  0.346899032593 ms
+           Executed SegNet in  499.691963196 ms
+         Processed results in  7.58385658264 ms
+
+      Grabbed camera frame in  7.42197036743 ms
+          Preprocess image in  0.322103500366 ms
+           Executed SegNet in  497.866868973 ms
+         Processed results in  7.62104988098 ms
+
+      Grabbed camera frame in  7.47895240784 ms
+          Preprocess image in  0.351905822754 ms
+           Executed SegNet in  499.87912178 ms
+         Processed results in  7.67421722412 ms
+
+      Grabbed camera frame in  7.52401351929 ms
+          Preprocess image in  0.354051589966 ms
+           Executed SegNet in  502.653837204 ms
+         Processed results in  7.67302513123 ms
+
+      Grabbed camera frame in  7.27105140686 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  498.648166656 ms
+         Processed results in  7.6699256897 ms
+
+      Grabbed camera frame in  7.38310813904 ms
+          Preprocess image in  0.34499168396 ms
+           Executed SegNet in  500.143051147 ms
+         Processed results in  7.65681266785 ms
+
+      Grabbed camera frame in  7.61294364929 ms
+          Preprocess image in  0.370025634766 ms
+           Executed SegNet in  500.781059265 ms
+         Processed results in  7.61413574219 ms
+
+      Grabbed camera frame in  7.91788101196 ms
+          Preprocess image in  0.335931777954 ms
+           Executed SegNet in  507.178068161 ms
+         Processed results in  7.70211219788 ms
+
+      Grabbed camera frame in  7.7440738678 ms
+          Preprocess image in  0.328063964844 ms
+           Executed SegNet in  500.174999237 ms
+         Processed results in  7.58481025696 ms
+
+      Grabbed camera frame in  7.49206542969 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  499.941110611 ms
+         Processed results in  7.67183303833 ms
+
+      Grabbed camera frame in  7.60197639465 ms
+          Preprocess image in  0.355005264282 ms
+           Executed SegNet in  503.064155579 ms
+         Processed results in  7.77196884155 ms
+
+      Grabbed camera frame in  7.60102272034 ms
+          Preprocess image in  0.350952148438 ms
+           Executed SegNet in  594.102144241 ms
+         Processed results in  12.7320289612 ms
+
+      Grabbed camera frame in  13.6499404907 ms
+          Preprocess image in  0.559091567993 ms
+           Executed SegNet in  592.500925064 ms
+         Processed results in  13.0710601807 ms
+
+      Grabbed camera frame in  13.8540267944 ms
+          Preprocess image in  0.573873519897 ms
+           Executed SegNet in  595.95990181 ms
+         Processed results in  12.7799510956 ms
+
+      Grabbed camera frame in  13.7770175934 ms
+          Preprocess image in  0.550985336304 ms
+           Executed SegNet in  592.356920242 ms
+         Processed results in  12.864112854 ms
+
+      Grabbed camera frame in  13.8099193573 ms
+          Preprocess image in  0.577926635742 ms
+           Executed SegNet in  530.519008636 ms
+         Processed results in  9.26399230957 ms
+
+      Grabbed camera frame in  9.83095169067 ms
+          Preprocess image in  0.425100326538 ms
+           Executed SegNet in  530.884981155 ms
+         Processed results in  9.34410095215 ms
+
+      Grabbed camera frame in  9.91892814636 ms
+          Preprocess image in  0.42986869812 ms
+           Executed SegNet in  529.969930649 ms
+         Processed results in  9.33504104614 ms
+
+      Grabbed camera frame in  9.87601280212 ms
+          Preprocess image in  0.410079956055 ms
+           Executed SegNet in  531.949996948 ms
+         Processed results in  9.39798355103 ms
+
+      Grabbed camera frame in  9.7439289093 ms
+          Preprocess image in  0.401973724365 ms
+           Executed SegNet in  532.15098381 ms
+         Processed results in  9.47594642639 ms
+
+      Grabbed camera frame in  9.77301597595 ms
+          Preprocess image in  0.421047210693 ms
+           Executed SegNet in  506.987094879 ms
+         Processed results in  7.817029953 ms
+
+      Grabbed camera frame in  7.74502754211 ms
+          Preprocess image in  0.345230102539 ms
+           Executed SegNet in  502.557992935 ms
+         Processed results in  7.50207901001 ms
+
+      Grabbed camera frame in  7.80200958252 ms
+          Preprocess image in  0.33712387085 ms
+           Executed SegNet in  499.145030975 ms
+         Processed results in  7.66086578369 ms
+
+      Grabbed camera frame in  7.72285461426 ms
+          Preprocess image in  0.369071960449 ms
+           Executed SegNet in  499.127864838 ms
+         Processed results in  7.69591331482 ms
+
+      Grabbed camera frame in  7.76100158691 ms
+          Preprocess image in  0.331163406372 ms
+           Executed SegNet in  501.507043839 ms
+         Processed results in  7.76386260986 ms
+
+      Grabbed camera frame in  7.76815414429 ms
+          Preprocess image in  0.344038009644 ms
+           Executed SegNet in  509.250879288 ms
+         Processed results in  7.70211219788 ms
+
+      Grabbed camera frame in  8.33296775818 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  536.495923996 ms
+         Processed results in  9.27209854126 ms
+
+      Grabbed camera frame in  10.009765625 ms
+          Preprocess image in  0.403881072998 ms
+           Executed SegNet in  530.700922012 ms
+         Processed results in  9.39393043518 ms
+
+      Grabbed camera frame in  9.91606712341 ms
+          Preprocess image in  0.43797492981 ms
+           Executed SegNet in  530.781984329 ms
+         Processed results in  9.3719959259 ms
+
+      Grabbed camera frame in  9.80877876282 ms
+          Preprocess image in  0.425100326538 ms
+           Executed SegNet in  530.488014221 ms
+         Processed results in  9.3879699707 ms
+
+      Grabbed camera frame in  9.77492332458 ms
+          Preprocess image in  0.408172607422 ms
+           Executed SegNet in  531.145811081 ms
+         Processed results in  9.43803787231 ms
+
+      Grabbed camera frame in  8.50892066956 ms
+          Preprocess image in  0.334024429321 ms
+           Executed SegNet in  503.639936447 ms
+         Processed results in  7.72595405579 ms
+
+      Grabbed camera frame in  7.95984268188 ms
+          Preprocess image in  0.341892242432 ms
+           Executed SegNet in  508.536100388 ms
+         Processed results in  7.76386260986 ms
+
+      Grabbed camera frame in  7.81011581421 ms
+          Preprocess image in  0.378131866455 ms
+           Executed SegNet in  501.478910446 ms
+         Processed results in  7.7440738678 ms
+
+      Grabbed camera frame in  7.73286819458 ms
+          Preprocess image in  0.358104705811 ms
+           Executed SegNet in  499.345064163 ms
+         Processed results in  7.60698318481 ms
+
+      Grabbed camera frame in  7.84587860107 ms
+          Preprocess image in  0.348806381226 ms
+           Executed SegNet in  503.03196907 ms
+         Processed results in  7.70115852356 ms
+
+      Grabbed camera frame in  7.80415534973 ms
+          Preprocess image in  0.318050384521 ms
+           Executed SegNet in  529.126882553 ms
+         Processed results in  9.44495201111 ms
+
+      Grabbed camera frame in  9.91606712341 ms
+          Preprocess image in  0.443935394287 ms
+           Executed SegNet in  531.905889511 ms
+         Processed results in  9.38892364502 ms
+
+      Grabbed camera frame in  9.91606712341 ms
+          Preprocess image in  0.440120697021 ms
+           Executed SegNet in  533.746004105 ms
+         Processed results in  9.41920280457 ms
+
+      Grabbed camera frame in  9.83786582947 ms
+          Preprocess image in  0.408887863159 ms
+           Executed SegNet in  531.186103821 ms
+         Processed results in  9.28783416748 ms
+
+      Grabbed camera frame in  9.86385345459 ms
+          Preprocess image in  0.394105911255 ms
+           Executed SegNet in  531.183004379 ms
+         Processed results in  9.40990447998 ms
+
+      Grabbed camera frame in  9.840965271 ms
+          Preprocess image in  0.422954559326 ms
+           Executed SegNet in  512.23897934 ms
+         Processed results in  7.64489173889 ms
+
+      Grabbed camera frame in  7.75408744812 ms
+          Preprocess image in  0.310897827148 ms
+           Executed SegNet in  503.512144089 ms
+         Processed results in  7.55596160889 ms
+
+      Grabbed camera frame in  7.7600479126 ms
+          Preprocess image in  0.351905822754 ms
+           Executed SegNet in  506.789922714 ms
+         Processed results in  7.67207145691 ms
+
+      Grabbed camera frame in  8.07094573975 ms
+          Preprocess image in  0.333070755005 ms
+           Executed SegNet in  502.285003662 ms
+         Processed results in  8.13508033752 ms
+
+      Grabbed camera frame in  7.82799720764 ms
+          Preprocess image in  0.346183776855 ms
+           Executed SegNet in  501.368045807 ms
+         Processed results in  7.77316093445 ms
+
+      Grabbed camera frame in  7.71284103394 ms
+          Preprocess image in  0.361919403076 ms
+           Executed SegNet in  505.888938904 ms
+         Processed results in  7.67207145691 ms
+
+      Grabbed camera frame in  7.85613059998 ms
+          Preprocess image in  0.352144241333 ms
+           Executed SegNet in  539.039850235 ms
+         Processed results in  9.56702232361 ms
+
+      Grabbed camera frame in  9.5009803772 ms
+          Preprocess image in  0.436067581177 ms
+           Executed SegNet in  534.377098083 ms
+         Processed results in  9.4530582428 ms
+
+      Grabbed camera frame in  9.62090492249 ms
+          Preprocess image in  0.430107116699 ms
+           Executed SegNet in  531.851053238 ms
+         Processed results in  9.42802429199 ms
+
+      Grabbed camera frame in  9.74106788635 ms
+          Preprocess image in  0.428915023804 ms
+           Executed SegNet in  530.543088913 ms
+         Processed results in  9.38487052917 ms
+
+      Grabbed camera frame in  10.1652145386 ms
+          Preprocess image in  0.410079956055 ms
+           Executed SegNet in  530.454158783 ms
+         Processed results in  9.32288169861 ms
+
+      Grabbed camera frame in  9.8249912262 ms
+          Preprocess image in  0.406980514526 ms
+           Executed SegNet in  504.98008728 ms
+         Processed results in  7.71713256836 ms
+
+      Grabbed camera frame in  7.62915611267 ms
+          Preprocess image in  0.338077545166 ms
+           Executed SegNet in  501.36590004 ms
+         Processed results in  7.66801834106 ms
+
+      Grabbed camera frame in  7.92407989502 ms
+          Preprocess image in  0.381946563721 ms
+           Executed SegNet in  500.778913498 ms
+         Processed results in  7.71999359131 ms
+
+      Grabbed camera frame in  7.73906707764 ms
+          Preprocess image in  0.311851501465 ms
+           Executed SegNet in  501.800060272 ms
+         Processed results in  7.8399181366 ms
+
+      Grabbed camera frame in  7.72285461426 ms
+          Preprocess image in  0.320911407471 ms
+           Executed SegNet in  508.280038834 ms
+         Processed results in  7.52019882202 ms
+
+      Grabbed camera frame in  7.2968006134 ms
+          Preprocess image in  0.349044799805 ms
+           Executed SegNet in  508.197069168 ms
+         Processed results in  9.42993164062 ms
+
+      Grabbed camera frame in  9.20486450195 ms
+          Preprocess image in  0.420808792114 ms
+           Executed SegNet in  532.382965088 ms
+         Processed results in  9.72390174866 ms
+
+      Grabbed camera frame in  9.21487808228 ms
+          Preprocess image in  0.400066375732 ms
+           Executed SegNet in  529.592037201 ms
+         Processed results in  9.49692726135 ms
+
+      Grabbed camera frame in  8.85701179504 ms
+          Preprocess image in  0.415086746216 ms
+           Executed SegNet in  531.337976456 ms
+         Processed results in  9.2990398407 ms
+
+      Grabbed camera frame in  9.0069770813 ms
+          Preprocess image in  0.430107116699 ms
+           Executed SegNet in  505.103111267 ms
+         Processed results in  7.67803192139 ms
+
+      Grabbed camera frame in  7.01880455017 ms
+          Preprocess image in  0.321865081787 ms
+           Executed SegNet in  508.435964584 ms
+         Processed results in  7.80296325684 ms
+
+      Grabbed camera frame in  6.80899620056 ms
+          Preprocess image in  0.335931777954 ms
+           Executed SegNet in  504.341125488 ms
+         Processed results in  7.7428817749 ms
+
+      Grabbed camera frame in  6.68692588806 ms
+          Preprocess image in  0.310182571411 ms
+           Executed SegNet in  500.248908997 ms
+         Processed results in  7.7440738678 ms
+
+      Grabbed camera frame in  7.1120262146 ms
+          Preprocess image in  0.335931777954 ms
+           Executed SegNet in  498.127937317 ms
+         Processed results in  7.78889656067 ms
+
+      Grabbed camera frame in  6.15406036377 ms
+          Preprocess image in  0.345945358276 ms
+           Executed SegNet in  497.357130051 ms
+         Processed results in  7.81607627869 ms
+
+      Grabbed camera frame in  5.69581985474 ms
+          Preprocess image in  0.30779838562 ms
+           Executed SegNet in  526.868104935 ms
+         Processed results in  9.59014892578 ms
+
+      Grabbed camera frame in  7.59291648865 ms
+          Preprocess image in  0.416040420532 ms
+           Executed SegNet in  530.173063278 ms
+         Processed results in  9.3879699707 ms
+
+      Grabbed camera frame in  7.76100158691 ms
+          Preprocess image in  0.428915023804 ms
+           Executed SegNet in  533.970117569 ms
+         Processed results in  9.51910018921 ms
+
+      Grabbed camera frame in  8.36491584778 ms
+          Preprocess image in  0.426769256592 ms
+           Executed SegNet in  528.282880783 ms
+         Processed results in  9.47189331055 ms
+
+      Grabbed camera frame in  9.73105430603 ms
+          Preprocess image in  0.407934188843 ms
+           Executed SegNet in  534.628152847 ms
+         Processed results in  9.38296318054 ms
+
+      Grabbed camera frame in  9.54294204712 ms
+          Preprocess image in  0.427961349487 ms
+           Executed SegNet in  504.765033722 ms
+         Processed results in  7.80892372131 ms
+
+      Grabbed camera frame in  7.66491889954 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  509.613990784 ms
+         Processed results in  8.42905044556 ms
+
+      Grabbed camera frame in  7.61795043945 ms
+          Preprocess image in  0.349044799805 ms
+           Executed SegNet in  503.148078918 ms
+         Processed results in  7.73286819458 ms
+
+      Grabbed camera frame in  7.18307495117 ms
+          Preprocess image in  0.370979309082 ms
+           Executed SegNet in  501.126050949 ms
+         Processed results in  7.61294364929 ms
+
+      Grabbed camera frame in  7.32588768005 ms
+          Preprocess image in  0.329971313477 ms
+           Executed SegNet in  502.494096756 ms
+         Processed results in  7.67993927002 ms
+
+      Grabbed camera frame in  7.42602348328 ms
+          Preprocess image in  0.313997268677 ms
+           Executed SegNet in  507.418870926 ms
+         Processed results in  7.6949596405 ms
+
+      Grabbed camera frame in  8.81290435791 ms
+          Preprocess image in  0.414133071899 ms
+           Executed SegNet in  534.515142441 ms
+         Processed results in  9.49192047119 ms
+
+      Grabbed camera frame in  8.36396217346 ms
+          Preprocess image in  0.392913818359 ms
+           Executed SegNet in  530.197143555 ms
+         Processed results in  9.51886177063 ms
+
+      Grabbed camera frame in  8.80289077759 ms
+          Preprocess image in  0.429153442383 ms
+           Executed SegNet in  529.811859131 ms
+         Processed results in  9.39512252808 ms
+
+      Grabbed camera frame in  9.43803787231 ms
+          Preprocess image in  0.416994094849 ms
+           Executed SegNet in  530.699968338 ms
+         Processed results in  9.40680503845 ms
+
+      Grabbed camera frame in  9.45901870728 ms
+          Preprocess image in  0.418186187744 ms
+           Executed SegNet in  530.076980591 ms
+         Processed results in  9.40203666687 ms
+
+      Grabbed camera frame in  7.42793083191 ms
+          Preprocess image in  0.310182571411 ms
+           Executed SegNet in  502.565860748 ms
+         Processed results in  7.78198242188 ms
+
+      Grabbed camera frame in  7.35211372375 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  503.025054932 ms
+         Processed results in  7.98010826111 ms
+
+      Grabbed camera frame in  7.07101821899 ms
+          Preprocess image in  0.324964523315 ms
+           Executed SegNet in  504.105091095 ms
+         Processed results in  7.85708427429 ms
+
+      Grabbed camera frame in  7.10010528564 ms
+          Preprocess image in  0.379085540771 ms
+           Executed SegNet in  502.693891525 ms
+         Processed results in  7.7269077301 ms
+
+      Grabbed camera frame in  6.86192512512 ms
+          Preprocess image in  0.350952148438 ms
+           Executed SegNet in  503.493070602 ms
+         Processed results in  7.8649520874 ms
+
+      Grabbed camera frame in  7.03310966492 ms
+          Preprocess image in  0.312089920044 ms
+           Executed SegNet in  529.16097641 ms
+         Processed results in  9.47403907776 ms
+
+      Grabbed camera frame in  9.13596153259 ms
+          Preprocess image in  0.403881072998 ms
+           Executed SegNet in  534.426927567 ms
+         Processed results in  9.46092605591 ms
+
+      Grabbed camera frame in  9.54294204712 ms
+          Preprocess image in  0.415086746216 ms
+           Executed SegNet in  535.11095047 ms
+         Processed results in  9.33289527893 ms
+
+      Grabbed camera frame in  9.36198234558 ms
+          Preprocess image in  0.408887863159 ms
+           Executed SegNet in  538.491010666 ms
+         Processed results in  9.37795639038 ms
+
+      Grabbed camera frame in  8.84795188904 ms
+          Preprocess image in  0.39005279541 ms
+           Executed SegNet in  539.484977722 ms
+         Processed results in  9.2990398407 ms
+
+      Grabbed camera frame in  9.28997993469 ms
+          Preprocess image in  0.396013259888 ms
+           Executed SegNet in  512.933969498 ms
+         Processed results in  7.63201713562 ms
+
+      Grabbed camera frame in  7.16781616211 ms
+          Preprocess image in  0.35285949707 ms
+           Executed SegNet in  511.641979218 ms
+         Processed results in  7.92288780212 ms
+
+      Grabbed camera frame in  7.12490081787 ms
+          Preprocess image in  0.357151031494 ms
+           Executed SegNet in  505.352020264 ms
+         Processed results in  7.93504714966 ms
+
+      Grabbed camera frame in  7.49516487122 ms
+          Preprocess image in  0.313997268677 ms
+           Executed SegNet in  504.663944244 ms
+         Processed results in  7.71307945251 ms
+
+      Grabbed camera frame in  7.23481178284 ms
+          Preprocess image in  0.308036804199 ms
+           Executed SegNet in  506.707191467 ms
+         Processed results in  7.89213180542 ms
+
+      Grabbed camera frame in  7.33089447021 ms
+          Preprocess image in  0.335931777954 ms
+           Executed SegNet in  510.39814949 ms
+         Processed results in  8.00704956055 ms
+
+      Grabbed camera frame in  7.66181945801 ms
+          Preprocess image in  0.349998474121 ms
+           Executed SegNet in  535.770893097 ms
+         Processed results in  9.4780921936 ms
+
+      Grabbed camera frame in  9.16790962219 ms
+          Preprocess image in  0.391006469727 ms
+           Executed SegNet in  529.772996902 ms
+         Processed results in  9.41801071167 ms
+
+      Grabbed camera frame in  9.24205780029 ms
+          Preprocess image in  0.401973724365 ms
+           Executed SegNet in  528.499126434 ms
+         Processed results in  9.39297676086 ms
+
+      Grabbed camera frame in  8.95404815674 ms
+          Preprocess image in  0.416040420532 ms
+           Executed SegNet in  529.70290184 ms
+         Processed results in  9.37414169312 ms
+
+      Grabbed camera frame in  8.67080688477 ms
+          Preprocess image in  0.432014465332 ms
+           Executed SegNet in  530.674934387 ms
+         Processed results in  9.49192047119 ms
+
+      Grabbed camera frame in  9.11498069763 ms
+          Preprocess image in  0.427007675171 ms
+           Executed SegNet in  505.391120911 ms
+         Processed results in  7.96914100647 ms
+
+      Grabbed camera frame in  7.54189491272 ms
+          Preprocess image in  0.350952148438 ms
+           Executed SegNet in  506.399869919 ms
+         Processed results in  8.42809677124 ms
+
+      Grabbed camera frame in  7.78412818909 ms
+          Preprocess image in  0.365018844604 ms
+           Executed SegNet in  505.667924881 ms
+         Processed results in  7.90500640869 ms
+
+      Grabbed camera frame in  7.66396522522 ms
+          Preprocess image in  0.324010848999 ms
+           Executed SegNet in  510.818004608 ms
+         Processed results in  8.07905197144 ms
+
+      Grabbed camera frame in  7.66396522522 ms
+          Preprocess image in  0.360012054443 ms
+           Executed SegNet in  505.49697876 ms
+         Processed results in  7.85803794861 ms
+
+      Grabbed camera frame in  7.88187980652 ms
+          Preprocess image in  0.339031219482 ms
+           Executed SegNet in  504.210948944 ms
+         Processed results in  7.97986984253 ms
+
+      Grabbed camera frame in  9.13095474243 ms
+          Preprocess image in  0.426054000854 ms
+           Executed SegNet in  530.264139175 ms
+         Processed results in  9.39702987671 ms
+
+      Grabbed camera frame in  9.64999198914 ms
+          Preprocess image in  0.442981719971 ms
+           Executed SegNet in  529.511928558 ms
+         Processed results in  9.46283340454 ms
+
+      Grabbed camera frame in  9.15384292603 ms
+          Preprocess image in  0.419139862061 ms
+           Executed SegNet in  529.767990112 ms
+         Processed results in  9.44519042969 ms
+
+      Grabbed camera frame in  9.6800327301 ms
+          Preprocess image in  0.409841537476 ms
+           Executed SegNet in  529.695034027 ms
+         Processed results in  9.43183898926 ms
+
+      Grabbed camera frame in  9.41205024719 ms
+          Preprocess image in  0.452041625977 ms
+           Executed SegNet in  527.4310112 ms
+         Processed results in  9.38582420349 ms
+
+      Grabbed camera frame in  7.1280002594 ms
+          Preprocess image in  0.306129455566 ms
+           Executed SegNet in  505.812168121 ms
+         Processed results in  8.05711746216 ms
+
+      Grabbed camera frame in  7.27701187134 ms
+          Preprocess image in  0.319004058838 ms
+           Executed SegNet in  506.109952927 ms
+         Processed results in  8.00895690918 ms
+
+      Grabbed camera frame in  7.26699829102 ms
+          Preprocess image in  0.36096572876 ms
+           Executed SegNet in  508.256196976 ms
+         Processed results in  8.08191299438 ms
+
+      Grabbed camera frame in  7.86113739014 ms
+          Preprocess image in  0.345945358276 ms
+           Executed SegNet in  513.252019882 ms
+         Processed results in  8.10980796814 ms
+
+      Grabbed camera frame in  7.83681869507 ms
+          Preprocess image in  0.331878662109 ms
+           Executed SegNet in  512.526035309 ms
+         Processed results in  8.06784629822 ms
+
+      Grabbed camera frame in  7.78889656067 ms
+          Preprocess image in  0.357866287231 ms
+           Executed SegNet in  529.371023178 ms
+         Processed results in  9.526014328 ms
+
+Success!

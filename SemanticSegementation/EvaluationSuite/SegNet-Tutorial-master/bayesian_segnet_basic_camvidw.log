@@ -1,0 +1,1168 @@
+/home/rish/caffe-segnet-cudnn5-master/SegNet-Tutorial-master/Models/bayesian_segnet_basic_camvidw
+   Grabbed Input and Label in  43.3211326599 ms
+          Preprocess image in  50.9278774261 ms
+           Executed SegNet in  676.458120346 ms
+         Processed results in  49.8929023743 ms
+
+   Grabbed Input and Label in  33.1289768219 ms
+          Preprocess image in  44.5539951324 ms
+           Executed SegNet in  623.219966888 ms
+         Processed results in  47.3539829254 ms
+
+   Grabbed Input and Label in  32.6220989227 ms
+          Preprocess image in  42.3440933228 ms
+           Executed SegNet in  626.65605545 ms
+         Processed results in  45.7639694214 ms
+
+   Grabbed Input and Label in  32.9051017761 ms
+          Preprocess image in  42.1509742737 ms
+           Executed SegNet in  627.704143524 ms
+         Processed results in  37.4369621277 ms
+
+   Grabbed Input and Label in  24.1038799286 ms
+          Preprocess image in  33.5328578949 ms
+           Executed SegNet in  621.948003769 ms
+         Processed results in  38.0690097809 ms
+
+   Grabbed Input and Label in  23.6120223999 ms
+          Preprocess image in  34.2950820923 ms
+           Executed SegNet in  627.225160599 ms
+         Processed results in  37.7910137177 ms
+
+   Grabbed Input and Label in  24.5587825775 ms
+          Preprocess image in  34.0240001678 ms
+           Executed SegNet in  623.188018799 ms
+         Processed results in  37.4491214752 ms
+
+   Grabbed Input and Label in  23.7581729889 ms
+          Preprocess image in  34.049987793 ms
+           Executed SegNet in  626.874923706 ms
+         Processed results in  37.2757911682 ms
+
+   Grabbed Input and Label in  23.30493927 ms
+          Preprocess image in  33.6239337921 ms
+           Executed SegNet in  629.638195038 ms
+         Processed results in  45.8288192749 ms
+
+   Grabbed Input and Label in  32.5729846954 ms
+          Preprocess image in  42.2689914703 ms
+           Executed SegNet in  622.597932816 ms
+         Processed results in  49.525976181 ms
+
+   Grabbed Input and Label in  32.0601463318 ms
+          Preprocess image in  42.3150062561 ms
+           Executed SegNet in  630.777835846 ms
+         Processed results in  45.4680919647 ms
+
+   Grabbed Input and Label in  32.2659015656 ms
+          Preprocess image in  42.2971248627 ms
+           Executed SegNet in  629.159927368 ms
+         Processed results in  47.9669570923 ms
+
+   Grabbed Input and Label in  32.5911045074 ms
+          Preprocess image in  42.1350002289 ms
+           Executed SegNet in  634.541034698 ms
+         Processed results in  45.7201004028 ms
+
+   Grabbed Input and Label in  33.0150127411 ms
+          Preprocess image in  42.2189235687 ms
+           Executed SegNet in  627.960920334 ms
+         Processed results in  39.097070694 ms
+
+   Grabbed Input and Label in  24.0042209625 ms
+          Preprocess image in  33.4391593933 ms
+           Executed SegNet in  633.64815712 ms
+         Processed results in  37.6279354095 ms
+
+   Grabbed Input and Label in  23.9090919495 ms
+          Preprocess image in  34.0120792389 ms
+           Executed SegNet in  634.804964066 ms
+         Processed results in  37.547826767 ms
+
+   Grabbed Input and Label in  23.6711502075 ms
+          Preprocess image in  33.4680080414 ms
+           Executed SegNet in  627.979040146 ms
+         Processed results in  37.1267795563 ms
+
+   Grabbed Input and Label in  24.2450237274 ms
+          Preprocess image in  33.5569381714 ms
+           Executed SegNet in  620.702981949 ms
+         Processed results in  38.6600494385 ms
+
+   Grabbed Input and Label in  24.1599082947 ms
+          Preprocess image in  33.5850715637 ms
+           Executed SegNet in  636.447191238 ms
+         Processed results in  46.8668937683 ms
+
+   Grabbed Input and Label in  33.0650806427 ms
+          Preprocess image in  42.2267913818 ms
+           Executed SegNet in  621.479988098 ms
+         Processed results in  46.0760593414 ms
+
+   Grabbed Input and Label in  32.8028202057 ms
+          Preprocess image in  42.9031848907 ms
+           Executed SegNet in  632.6379776 ms
+         Processed results in  46.4861392975 ms
+
+   Grabbed Input and Label in  32.8199863434 ms
+          Preprocess image in  42.2470569611 ms
+           Executed SegNet in  628.692865372 ms
+         Processed results in  45.2189445496 ms
+
+   Grabbed Input and Label in  32.4728488922 ms
+          Preprocess image in  42.4699783325 ms
+           Executed SegNet in  631.813049316 ms
+         Processed results in  48.7790107727 ms
+
+   Grabbed Input and Label in  32.8590869904 ms
+          Preprocess image in  42.2391891479 ms
+           Executed SegNet in  633.806943893 ms
+         Processed results in  37.2529029846 ms
+
+   Grabbed Input and Label in  23.8900184631 ms
+          Preprocess image in  33.9968204498 ms
+           Executed SegNet in  629.115104675 ms
+         Processed results in  37.6980304718 ms
+
+   Grabbed Input and Label in  23.8890647888 ms
+          Preprocess image in  33.8399410248 ms
+           Executed SegNet in  626.918077469 ms
+         Processed results in  37.5719070435 ms
+
+   Grabbed Input and Label in  23.8041877747 ms
+          Preprocess image in  34.3201160431 ms
+           Executed SegNet in  623.178005219 ms
+         Processed results in  38.2018089294 ms
+
+   Grabbed Input and Label in  23.9689350128 ms
+          Preprocess image in  33.5559844971 ms
+           Executed SegNet in  623.464107513 ms
+         Processed results in  37.41979599 ms
+
+   Grabbed Input and Label in  24.0540504456 ms
+          Preprocess image in  33.6699485779 ms
+           Executed SegNet in  629.48679924 ms
+         Processed results in  45.9699630737 ms
+
+   Grabbed Input and Label in  32.5257778168 ms
+          Preprocess image in  42.6630973816 ms
+           Executed SegNet in  632.627010345 ms
+         Processed results in  45.9599494934 ms
+
+   Grabbed Input and Label in  32.6271057129 ms
+          Preprocess image in  42.5970554352 ms
+           Executed SegNet in  630.76710701 ms
+         Processed results in  46.3910102844 ms
+
+   Grabbed Input and Label in  32.6337814331 ms
+          Preprocess image in  42.1860218048 ms
+           Executed SegNet in  631.059169769 ms
+         Processed results in  45.3798770905 ms
+
+   Grabbed Input and Label in  23.7629413605 ms
+          Preprocess image in  33.5750579834 ms
+           Executed SegNet in  634.378910065 ms
+         Processed results in  37.9028320312 ms
+
+   Grabbed Input and Label in  23.717880249 ms
+          Preprocess image in  33.7369441986 ms
+           Executed SegNet in  627.83908844 ms
+         Processed results in  37.2638702393 ms
+
+   Grabbed Input and Label in  24.0619182587 ms
+          Preprocess image in  33.4610939026 ms
+           Executed SegNet in  623.620986938 ms
+         Processed results in  37.5039577484 ms
+
+   Grabbed Input and Label in  23.8420963287 ms
+          Preprocess image in  33.637046814 ms
+           Executed SegNet in  634.2420578 ms
+         Processed results in  37.3330116272 ms
+
+   Grabbed Input and Label in  24.2078304291 ms
+          Preprocess image in  33.7588787079 ms
+           Executed SegNet in  634.485006332 ms
+         Processed results in  37.248134613 ms
+
+   Grabbed Input and Label in  23.3910083771 ms
+          Preprocess image in  34.3208312988 ms
+           Executed SegNet in  633.605003357 ms
+         Processed results in  45.9740161896 ms
+
+   Grabbed Input and Label in  32.0861339569 ms
+          Preprocess image in  42.9728031158 ms
+           Executed SegNet in  629.56905365 ms
+         Processed results in  46.9090938568 ms
+
+   Grabbed Input and Label in  32.6609611511 ms
+          Preprocess image in  42.1800613403 ms
+           Executed SegNet in  621.129989624 ms
+         Processed results in  46.1730957031 ms
+
+   Grabbed Input and Label in  32.4759483337 ms
+          Preprocess image in  43.8239574432 ms
+           Executed SegNet in  630.832910538 ms
+         Processed results in  46.6659069061 ms
+
+   Grabbed Input and Label in  33.2369804382 ms
+          Preprocess image in  42.1807765961 ms
+           Executed SegNet in  629.292011261 ms
+         Processed results in  46.2391376495 ms
+
+   Grabbed Input and Label in  24.10197258 ms
+          Preprocess image in  33.7560176849 ms
+           Executed SegNet in  633.883953094 ms
+         Processed results in  37.1220111847 ms
+
+   Grabbed Input and Label in  24.1529941559 ms
+          Preprocess image in  33.6289405823 ms
+           Executed SegNet in  632.551908493 ms
+         Processed results in  38.3868217468 ms
+
+   Grabbed Input and Label in  23.8230228424 ms
+          Preprocess image in  33.9348316193 ms
+           Executed SegNet in  633.642196655 ms
+         Processed results in  37.3799800873 ms
+
+   Grabbed Input and Label in  23.6279964447 ms
+          Preprocess image in  33.7250232697 ms
+           Executed SegNet in  632.485866547 ms
+         Processed results in  37.2910499573 ms
+
+   Grabbed Input and Label in  24.0530967712 ms
+          Preprocess image in  33.6558818817 ms
+           Executed SegNet in  627.230882645 ms
+         Processed results in  37.3620986938 ms
+
+   Grabbed Input and Label in  23.9250659943 ms
+          Preprocess image in  33.8189601898 ms
+           Executed SegNet in  631.562948227 ms
+         Processed results in  45.5842018127 ms
+
+   Grabbed Input and Label in  32.4130058289 ms
+          Preprocess image in  42.160987854 ms
+           Executed SegNet in  624.377012253 ms
+         Processed results in  45.7301139832 ms
+
+   Grabbed Input and Label in  32.5269699097 ms
+          Preprocess image in  42.2139167786 ms
+           Executed SegNet in  632.869005203 ms
+         Processed results in  45.5570220947 ms
+
+   Grabbed Input and Label in  33.173084259 ms
+          Preprocess image in  42.4308776855 ms
+           Executed SegNet in  633.488893509 ms
+         Processed results in  45.6750392914 ms
+
+   Grabbed Input and Label in  32.7880382538 ms
+          Preprocess image in  42.1521663666 ms
+           Executed SegNet in  624.684095383 ms
+         Processed results in  45.2780723572 ms
+
+   Grabbed Input and Label in  25.7019996643 ms
+          Preprocess image in  33.4918498993 ms
+           Executed SegNet in  625.679016113 ms
+         Processed results in  40.2109622955 ms
+
+   Grabbed Input and Label in  23.2510566711 ms
+          Preprocess image in  33.350944519 ms
+           Executed SegNet in  633.884906769 ms
+         Processed results in  37.7159118652 ms
+
+   Grabbed Input and Label in  24.0159034729 ms
+          Preprocess image in  34.4150066376 ms
+           Executed SegNet in  627.626895905 ms
+         Processed results in  37.8489494324 ms
+
+   Grabbed Input and Label in  22.9399204254 ms
+          Preprocess image in  33.7018966675 ms
+           Executed SegNet in  635.143041611 ms
+         Processed results in  37.1308326721 ms
+
+   Grabbed Input and Label in  23.6158370972 ms
+          Preprocess image in  33.6170196533 ms
+           Executed SegNet in  634.158849716 ms
+         Processed results in  37.3990535736 ms
+
+   Grabbed Input and Label in  23.8587856293 ms
+          Preprocess image in  33.4470272064 ms
+           Executed SegNet in  630.104064941 ms
+         Processed results in  45.3510284424 ms
+
+   Grabbed Input and Label in  32.8278541565 ms
+          Preprocess image in  42.0589447021 ms
+           Executed SegNet in  628.649950027 ms
+         Processed results in  45.2480316162 ms
+
+   Grabbed Input and Label in  32.096862793 ms
+          Preprocess image in  42.1290397644 ms
+           Executed SegNet in  629.554986954 ms
+         Processed results in  45.6509590149 ms
+
+   Grabbed Input and Label in  32.087802887 ms
+          Preprocess image in  42.3491001129 ms
+           Executed SegNet in  632.887840271 ms
+         Processed results in  45.4359054565 ms
+
+   Grabbed Input and Label in  32.2530269623 ms
+          Preprocess image in  42.249917984 ms
+           Executed SegNet in  628.774881363 ms
+         Processed results in  48.2051372528 ms
+
+   Grabbed Input and Label in  24.2841243744 ms
+          Preprocess image in  33.7948799133 ms
+           Executed SegNet in  620.491027832 ms
+         Processed results in  38.0311012268 ms
+
+   Grabbed Input and Label in  22.7470397949 ms
+          Preprocess image in  33.704996109 ms
+           Executed SegNet in  634.025096893 ms
+         Processed results in  38.4080410004 ms
+
+   Grabbed Input and Label in  22.6249694824 ms
+          Preprocess image in  34.2130661011 ms
+           Executed SegNet in  637.470006943 ms
+         Processed results in  38.1188392639 ms
+
+   Grabbed Input and Label in  22.3870277405 ms
+          Preprocess image in  33.6458683014 ms
+           Executed SegNet in  627.576828003 ms
+         Processed results in  37.7578735352 ms
+
+   Grabbed Input and Label in  22.6128101349 ms
+          Preprocess image in  35.0480079651 ms
+           Executed SegNet in  636.775016785 ms
+         Processed results in  37.8680229187 ms
+
+   Grabbed Input and Label in  24.5740413666 ms
+          Preprocess image in  33.5578918457 ms
+           Executed SegNet in  635.889053345 ms
+         Processed results in  46.1339950562 ms
+
+   Grabbed Input and Label in  29.8171043396 ms
+          Preprocess image in  42.4749851227 ms
+           Executed SegNet in  623.737096786 ms
+         Processed results in  45.8278656006 ms
+
+   Grabbed Input and Label in  29.5569896698 ms
+          Preprocess image in  43.1551933289 ms
+           Executed SegNet in  630.53894043 ms
+         Processed results in  45.7758903503 ms
+
+   Grabbed Input and Label in  28.8279056549 ms
+          Preprocess image in  41.9640541077 ms
+           Executed SegNet in  623.495101929 ms
+         Processed results in  46.4761257172 ms
+
+   Grabbed Input and Label in  29.4260978699 ms
+          Preprocess image in  42.3011779785 ms
+           Executed SegNet in  632.477045059 ms
+         Processed results in  45.9840297699 ms
+
+   Grabbed Input and Label in  23.5619544983 ms
+          Preprocess image in  33.949136734 ms
+           Executed SegNet in  626.852035522 ms
+         Processed results in  37.8801822662 ms
+
+   Grabbed Input and Label in  20.2379226685 ms
+          Preprocess image in  33.6971282959 ms
+           Executed SegNet in  620.590925217 ms
+         Processed results in  37.4438762665 ms
+
+   Grabbed Input and Label in  20.2569961548 ms
+          Preprocess image in  33.4060192108 ms
+           Executed SegNet in  622.449159622 ms
+         Processed results in  37.4898910522 ms
+
+   Grabbed Input and Label in  21.9740867615 ms
+          Preprocess image in  34.6298217773 ms
+           Executed SegNet in  626.773118973 ms
+         Processed results in  39.3099784851 ms
+
+   Grabbed Input and Label in  20.7018852234 ms
+          Preprocess image in  33.6389541626 ms
+           Executed SegNet in  636.155843735 ms
+         Processed results in  37.3759269714 ms
+
+   Grabbed Input and Label in  21.7599868774 ms
+          Preprocess image in  34.3999862671 ms
+           Executed SegNet in  636.37304306 ms
+         Processed results in  46.0121631622 ms
+
+   Grabbed Input and Label in  30.6789875031 ms
+          Preprocess image in  42.2160625458 ms
+           Executed SegNet in  627.259969711 ms
+         Processed results in  45.2768802643 ms
+
+   Grabbed Input and Label in  30.7829380035 ms
+          Preprocess image in  42.2511100769 ms
+           Executed SegNet in  636.718034744 ms
+         Processed results in  48.5868453979 ms
+
+   Grabbed Input and Label in  31.0981273651 ms
+          Preprocess image in  42.1671867371 ms
+           Executed SegNet in  621.064901352 ms
+         Processed results in  46.6737747192 ms
+
+   Grabbed Input and Label in  30.7748317719 ms
+          Preprocess image in  42.2520637512 ms
+           Executed SegNet in  634.671926498 ms
+         Processed results in  45.6428527832 ms
+
+   Grabbed Input and Label in  32.4811935425 ms
+          Preprocess image in  39.0429496765 ms
+           Executed SegNet in  633.637905121 ms
+         Processed results in  37.6081466675 ms
+
+   Grabbed Input and Label in  22.5350856781 ms
+          Preprocess image in  33.478975296 ms
+           Executed SegNet in  632.54904747 ms
+         Processed results in  37.4100208282 ms
+
+   Grabbed Input and Label in  22.1879482269 ms
+          Preprocess image in  34.9900722504 ms
+           Executed SegNet in  633.192777634 ms
+         Processed results in  37.8289222717 ms
+
+   Grabbed Input and Label in  23.4251022339 ms
+          Preprocess image in  33.7030887604 ms
+           Executed SegNet in  620.3520298 ms
+         Processed results in  38.1760597229 ms
+
+   Grabbed Input and Label in  22.9208469391 ms
+          Preprocess image in  34.1598987579 ms
+           Executed SegNet in  625.100135803 ms
+         Processed results in  37.220954895 ms
+
+   Grabbed Input and Label in  22.8099822998 ms
+          Preprocess image in  33.411026001 ms
+           Executed SegNet in  634.197950363 ms
+         Processed results in  45.0730323792 ms
+
+   Grabbed Input and Label in  30.0979614258 ms
+          Preprocess image in  42.3290729523 ms
+           Executed SegNet in  632.399082184 ms
+         Processed results in  47.2450256348 ms
+
+   Grabbed Input and Label in  31.5139293671 ms
+          Preprocess image in  42.1628952026 ms
+           Executed SegNet in  630.698919296 ms
+         Processed results in  46.0500717163 ms
+
+   Grabbed Input and Label in  31.0878753662 ms
+          Preprocess image in  42.042016983 ms
+           Executed SegNet in  631.186962128 ms
+         Processed results in  45.3190803528 ms
+
+   Grabbed Input and Label in  30.2131175995 ms
+          Preprocess image in  42.2329902649 ms
+           Executed SegNet in  631.196022034 ms
+         Processed results in  46.0669994354 ms
+
+   Grabbed Input and Label in  31.7440032959 ms
+          Preprocess image in  40.8668518066 ms
+           Executed SegNet in  633.999109268 ms
+         Processed results in  37.5180244446 ms
+
+   Grabbed Input and Label in  21.9781398773 ms
+          Preprocess image in  34.4738960266 ms
+           Executed SegNet in  631.777048111 ms
+         Processed results in  37.4250411987 ms
+
+   Grabbed Input and Label in  21.2697982788 ms
+          Preprocess image in  33.1399440765 ms
+           Executed SegNet in  632.4198246 ms
+         Processed results in  36.768913269 ms
+
+   Grabbed Input and Label in  22.4089622498 ms
+          Preprocess image in  33.7719917297 ms
+           Executed SegNet in  632.501125336 ms
+         Processed results in  38.6080741882 ms
+
+   Grabbed Input and Label in  22.1729278564 ms
+          Preprocess image in  33.7250232697 ms
+           Executed SegNet in  633.780956268 ms
+         Processed results in  37.8160476685 ms
+
+   Grabbed Input and Label in  22.6330757141 ms
+          Preprocess image in  33.2050323486 ms
+           Executed SegNet in  633.038043976 ms
+         Processed results in  45.0010299683 ms
+
+   Grabbed Input and Label in  32.2890281677 ms
+          Preprocess image in  43.3909893036 ms
+           Executed SegNet in  624.853849411 ms
+         Processed results in  46.028137207 ms
+
+   Grabbed Input and Label in  30.2817821503 ms
+          Preprocess image in  42.1719551086 ms
+           Executed SegNet in  630.452871323 ms
+         Processed results in  45.4201698303 ms
+
+   Grabbed Input and Label in  31.4919948578 ms
+          Preprocess image in  42.0742034912 ms
+           Executed SegNet in  629.317045212 ms
+         Processed results in  49.3710041046 ms
+
+   Grabbed Input and Label in  29.953956604 ms
+          Preprocess image in  42.1640872955 ms
+           Executed SegNet in  627.161979675 ms
+         Processed results in  45.7420349121 ms
+
+   Grabbed Input and Label in  29.8719406128 ms
+          Preprocess image in  40.6670570374 ms
+           Executed SegNet in  627.491950989 ms
+         Processed results in  37.6319885254 ms
+
+   Grabbed Input and Label in  22.6910114288 ms
+          Preprocess image in  33.7059497833 ms
+           Executed SegNet in  631.69503212 ms
+         Processed results in  37.6138687134 ms
+
+   Grabbed Input and Label in  23.1220722198 ms
+          Preprocess image in  33.478975296 ms
+           Executed SegNet in  636.693000793 ms
+         Processed results in  37.5330448151 ms
+
+   Grabbed Input and Label in  20.9169387817 ms
+          Preprocess image in  34.4278812408 ms
+           Executed SegNet in  628.879070282 ms
+         Processed results in  37.5049114227 ms
+
+   Grabbed Input and Label in  31.3370227814 ms
+          Preprocess image in  42.3679351807 ms
+           Executed SegNet in  634.056091309 ms
+         Processed results in  45.5911159515 ms
+
+   Grabbed Input and Label in  32.1390628815 ms
+          Preprocess image in  42.6390171051 ms
+           Executed SegNet in  630.343914032 ms
+         Processed results in  45.7248687744 ms
+
+   Grabbed Input and Label in  32.9411029816 ms
+          Preprocess image in  42.2101020813 ms
+           Executed SegNet in  633.960962296 ms
+         Processed results in  46.9129085541 ms
+
+   Grabbed Input and Label in  31.9221019745 ms
+          Preprocess image in  42.2019958496 ms
+           Executed SegNet in  631.922006607 ms
+         Processed results in  45.9818840027 ms
+
+   Grabbed Input and Label in  32.5789451599 ms
+          Preprocess image in  43.8289642334 ms
+           Executed SegNet in  631.639957428 ms
+         Processed results in  37.7769470215 ms
+
+   Grabbed Input and Label in  23.0529308319 ms
+          Preprocess image in  33.4911346436 ms
+           Executed SegNet in  633.4400177 ms
+         Processed results in  37.5080108643 ms
+
+   Grabbed Input and Label in  23.050069809 ms
+          Preprocess image in  34.3849658966 ms
+           Executed SegNet in  632.501125336 ms
+         Processed results in  37.9009246826 ms
+
+   Grabbed Input and Label in  22.4239826202 ms
+          Preprocess image in  34.5900058746 ms
+           Executed SegNet in  629.248142242 ms
+         Processed results in  38.6390686035 ms
+
+   Grabbed Input and Label in  22.6240158081 ms
+          Preprocess image in  33.4119796753 ms
+           Executed SegNet in  626.081943512 ms
+         Processed results in  37.5499725342 ms
+
+   Grabbed Input and Label in  22.5548744202 ms
+          Preprocess image in  34.0340137482 ms
+           Executed SegNet in  634.527921677 ms
+         Processed results in  37.575006485 ms
+
+   Grabbed Input and Label in  30.0779342651 ms
+          Preprocess image in  42.2470569611 ms
+           Executed SegNet in  631.661891937 ms
+         Processed results in  46.7731952667 ms
+
+   Grabbed Input and Label in  30.4169654846 ms
+          Preprocess image in  42.1719551086 ms
+           Executed SegNet in  632.629156113 ms
+         Processed results in  45.4430580139 ms
+
+   Grabbed Input and Label in  31.280040741 ms
+          Preprocess image in  42.0770645142 ms
+           Executed SegNet in  624.105930328 ms
+         Processed results in  48.2687950134 ms
+
+   Grabbed Input and Label in  32.2799682617 ms
+          Preprocess image in  42.338848114 ms
+           Executed SegNet in  634.516000748 ms
+         Processed results in  46.2279319763 ms
+
+   Grabbed Input and Label in  31.7101478577 ms
+          Preprocess image in  42.298078537 ms
+           Executed SegNet in  631.692886353 ms
+         Processed results in  37.5690460205 ms
+
+   Grabbed Input and Label in  22.4888324738 ms
+          Preprocess image in  34.0301990509 ms
+           Executed SegNet in  633.049964905 ms
+         Processed results in  37.1329784393 ms
+
+   Grabbed Input and Label in  22.7699279785 ms
+          Preprocess image in  33.8311195374 ms
+           Executed SegNet in  629.513978958 ms
+         Processed results in  38.1438732147 ms
+
+   Grabbed Input and Label in  22.8509902954 ms
+          Preprocess image in  33.6828231812 ms
+           Executed SegNet in  633.460044861 ms
+         Processed results in  37.8119945526 ms
+
+   Grabbed Input and Label in  23.1499671936 ms
+          Preprocess image in  33.5488319397 ms
+           Executed SegNet in  627.470970154 ms
+         Processed results in  37.3551845551 ms
+
+   Grabbed Input and Label in  23.6160755157 ms
+          Preprocess image in  33.4939956665 ms
+           Executed SegNet in  633.489847183 ms
+         Processed results in  37.5499725342 ms
+
+   Grabbed Input and Label in  20.8630561829 ms
+          Preprocess image in  31.3551425934 ms
+           Executed SegNet in  633.620977402 ms
+         Processed results in  35.8798503876 ms
+
+   Grabbed Input and Label in  21.1720466614 ms
+          Preprocess image in  32.7301025391 ms
+           Executed SegNet in  633.596897125 ms
+         Processed results in  34.8408222198 ms
+
+   Grabbed Input and Label in  21.0239887238 ms
+          Preprocess image in  31.69298172 ms
+           Executed SegNet in  633.609771729 ms
+         Processed results in  35.7151031494 ms
+
+   Grabbed Input and Label in  21.5840339661 ms
+          Preprocess image in  31.5520763397 ms
+           Executed SegNet in  636.224031448 ms
+         Processed results in  36.8020534515 ms
+
+   Grabbed Input and Label in  20.4129219055 ms
+          Preprocess image in  31.5089225769 ms
+           Executed SegNet in  627.623081207 ms
+         Processed results in  35.4239940643 ms
+
+   Grabbed Input and Label in  22.0758914948 ms
+          Preprocess image in  32.016992569 ms
+           Executed SegNet in  626.040935516 ms
+         Processed results in  38.3470058441 ms
+
+   Grabbed Input and Label in  23.3428478241 ms
+          Preprocess image in  33.2570075989 ms
+           Executed SegNet in  623.260974884 ms
+         Processed results in  37.5480651855 ms
+
+   Grabbed Input and Label in  23.2970714569 ms
+          Preprocess image in  33.1702232361 ms
+           Executed SegNet in  623.077869415 ms
+         Processed results in  37.4310016632 ms
+
+   Grabbed Input and Label in  23.4868526459 ms
+          Preprocess image in  33.4198474884 ms
+           Executed SegNet in  626.075983047 ms
+         Processed results in  39.7009849548 ms
+
+   Grabbed Input and Label in  23.3390331268 ms
+          Preprocess image in  33.4630012512 ms
+           Executed SegNet in  627.583026886 ms
+         Processed results in  37.2669696808 ms
+
+   Grabbed Input and Label in  23.4291553497 ms
+          Preprocess image in  33.9050292969 ms
+           Executed SegNet in  635.277986526 ms
+         Processed results in  50.8718490601 ms
+
+   Grabbed Input and Label in  36.4220142365 ms
+          Preprocess image in  47.0340251923 ms
+           Executed SegNet in  632.2889328 ms
+         Processed results in  50.4760742188 ms
+
+   Grabbed Input and Label in  36.7431640625 ms
+          Preprocess image in  48.0308532715 ms
+           Executed SegNet in  624.622106552 ms
+         Processed results in  50.873041153 ms
+
+   Grabbed Input and Label in  36.9839668274 ms
+          Preprocess image in  47.1570491791 ms
+           Executed SegNet in  631.33597374 ms
+         Processed results in  50.8317947388 ms
+
+   Grabbed Input and Label in  36.6649627686 ms
+          Preprocess image in  47.080039978 ms
+           Executed SegNet in  621.977090836 ms
+         Processed results in  50.4231452942 ms
+
+   Grabbed Input and Label in  31.9399833679 ms
+          Preprocess image in  43.1830883026 ms
+           Executed SegNet in  638.653993607 ms
+         Processed results in  46.3709831238 ms
+
+   Grabbed Input and Label in  31.7158699036 ms
+          Preprocess image in  42.2539710999 ms
+           Executed SegNet in  631.497144699 ms
+         Processed results in  45.1829433441 ms
+
+   Grabbed Input and Label in  32.243013382 ms
+          Preprocess image in  42.2968864441 ms
+           Executed SegNet in  628.401994705 ms
+         Processed results in  45.3281402588 ms
+
+   Grabbed Input and Label in  32.4997901917 ms
+          Preprocess image in  42.0138835907 ms
+           Executed SegNet in  621.363162994 ms
+         Processed results in  46.3850498199 ms
+
+   Grabbed Input and Label in  32.252073288 ms
+          Preprocess image in  42.2041416168 ms
+           Executed SegNet in  634.156942368 ms
+         Processed results in  37.309885025 ms
+
+   Grabbed Input and Label in  23.2789516449 ms
+          Preprocess image in  33.7510108948 ms
+           Executed SegNet in  625.16617775 ms
+         Processed results in  37.5120639801 ms
+
+   Grabbed Input and Label in  23.2310295105 ms
+          Preprocess image in  33.5428714752 ms
+           Executed SegNet in  623.392105103 ms
+         Processed results in  37.5139713287 ms
+
+   Grabbed Input and Label in  23.3688354492 ms
+          Preprocess image in  33.4939956665 ms
+           Executed SegNet in  632.208108902 ms
+         Processed results in  37.8541946411 ms
+
+   Grabbed Input and Label in  23.2548713684 ms
+          Preprocess image in  33.6101055145 ms
+           Executed SegNet in  633.671045303 ms
+         Processed results in  37.5869274139 ms
+
+   Grabbed Input and Label in  23.5548019409 ms
+          Preprocess image in  33.627986908 ms
+           Executed SegNet in  632.929086685 ms
+         Processed results in  37.2638702393 ms
+
+   Grabbed Input and Label in  31.8639278412 ms
+          Preprocess image in  41.9449806213 ms
+           Executed SegNet in  628.431081772 ms
+         Processed results in  45.2599525452 ms
+
+   Grabbed Input and Label in  31.9850444794 ms
+          Preprocess image in  42.1011447906 ms
+           Executed SegNet in  636.713981628 ms
+         Processed results in  45.6671714783 ms
+
+   Grabbed Input and Label in  31.9530963898 ms
+          Preprocess image in  43.1101322174 ms
+           Executed SegNet in  624.270915985 ms
+         Processed results in  45.9890365601 ms
+
+   Grabbed Input and Label in  31.9111347198 ms
+          Preprocess image in  42.1290397644 ms
+           Executed SegNet in  634.851932526 ms
+         Processed results in  46.1959838867 ms
+
+   Grabbed Input and Label in  31.996011734 ms
+          Preprocess image in  42.8400039673 ms
+           Executed SegNet in  635.104894638 ms
+         Processed results in  37.6861095428 ms
+
+   Grabbed Input and Label in  23.5419273376 ms
+          Preprocess image in  33.3690643311 ms
+           Executed SegNet in  624.634981155 ms
+         Processed results in  37.6489162445 ms
+
+   Grabbed Input and Label in  23.6051082611 ms
+          Preprocess image in  34.5749855042 ms
+           Executed SegNet in  634.701967239 ms
+         Processed results in  37.4391078949 ms
+
+   Grabbed Input and Label in  23.1449604034 ms
+          Preprocess image in  33.46991539 ms
+           Executed SegNet in  623.401880264 ms
+         Processed results in  37.9247665405 ms
+
+   Grabbed Input and Label in  23.5719680786 ms
+          Preprocess image in  33.7181091309 ms
+           Executed SegNet in  636.078119278 ms
+         Processed results in  38.0640029907 ms
+
+   Grabbed Input and Label in  22.5548744202 ms
+          Preprocess image in  33.497095108 ms
+           Executed SegNet in  632.365942001 ms
+         Processed results in  38.6691093445 ms
+
+   Grabbed Input and Label in  31.6247940063 ms
+          Preprocess image in  42.1288013458 ms
+           Executed SegNet in  633.276939392 ms
+         Processed results in  45.4452037811 ms
+
+   Grabbed Input and Label in  31.4590930939 ms
+          Preprocess image in  42.3500537872 ms
+           Executed SegNet in  626.188993454 ms
+         Processed results in  46.3650226593 ms
+
+   Grabbed Input and Label in  32.8578948975 ms
+          Preprocess image in  41.9549942017 ms
+           Executed SegNet in  631.026983261 ms
+         Processed results in  46.1390018463 ms
+
+   Grabbed Input and Label in  31.9859981537 ms
+          Preprocess image in  42.9890155792 ms
+           Executed SegNet in  635.581970215 ms
+         Processed results in  47.0218658447 ms
+
+   Grabbed Input and Label in  31.6340923309 ms
+          Preprocess image in  42.0780181885 ms
+           Executed SegNet in  625.602960587 ms
+         Processed results in  37.2738838196 ms
+
+   Grabbed Input and Label in  23.8609313965 ms
+          Preprocess image in  33.805847168 ms
+           Executed SegNet in  632.412910461 ms
+         Processed results in  38.409948349 ms
+
+   Grabbed Input and Label in  23.6189365387 ms
+          Preprocess image in  34.1339111328 ms
+           Executed SegNet in  627.880096436 ms
+         Processed results in  37.4898910522 ms
+
+   Grabbed Input and Label in  23.6949920654 ms
+          Preprocess image in  33.4668159485 ms
+           Executed SegNet in  631.154060364 ms
+         Processed results in  37.8420352936 ms
+
+   Grabbed Input and Label in  22.2427845001 ms
+          Preprocess image in  33.5309505463 ms
+           Executed SegNet in  632.528066635 ms
+         Processed results in  37.8868579865 ms
+
+   Grabbed Input and Label in  22.1800804138 ms
+          Preprocess image in  33.4961414337 ms
+           Executed SegNet in  630.125045776 ms
+         Processed results in  39.5908355713 ms
+
+   Grabbed Input and Label in  30.3730964661 ms
+          Preprocess image in  42.0367717743 ms
+           Executed SegNet in  631.278991699 ms
+         Processed results in  45.0079441071 ms
+
+   Grabbed Input and Label in  29.3469429016 ms
+          Preprocess image in  42.2999858856 ms
+           Executed SegNet in  634.029150009 ms
+         Processed results in  46.4131832123 ms
+
+   Grabbed Input and Label in  29.5917987823 ms
+          Preprocess image in  42.0670509338 ms
+           Executed SegNet in  631.323099136 ms
+         Processed results in  46.2691783905 ms
+
+   Grabbed Input and Label in  29.3350219727 ms
+          Preprocess image in  41.983127594 ms
+           Executed SegNet in  630.84602356 ms
+         Processed results in  46.0131168365 ms
+
+   Grabbed Input and Label in  28.4960269928 ms
+          Preprocess image in  43.1499481201 ms
+           Executed SegNet in  631.680965424 ms
+         Processed results in  38.2919311523 ms
+
+   Grabbed Input and Label in  20.7860469818 ms
+          Preprocess image in  33.3740711212 ms
+           Executed SegNet in  626.82890892 ms
+         Processed results in  37.6331806183 ms
+
+   Grabbed Input and Label in  21.1908817291 ms
+          Preprocess image in  37.8308296204 ms
+           Executed SegNet in  629.383802414 ms
+         Processed results in  37.7559661865 ms
+
+   Grabbed Input and Label in  19.0050601959 ms
+          Preprocess image in  33.5249900818 ms
+           Executed SegNet in  633.394002914 ms
+         Processed results in  37.6389026642 ms
+
+   Grabbed Input and Label in  18.1770324707 ms
+          Preprocess image in  33.665895462 ms
+           Executed SegNet in  635.710954666 ms
+         Processed results in  36.9889736176 ms
+
+   Grabbed Input and Label in  19.3419456482 ms
+          Preprocess image in  33.7569713593 ms
+           Executed SegNet in  626.660108566 ms
+         Processed results in  37.6060009003 ms
+
+   Grabbed Input and Label in  19.3479061127 ms
+          Preprocess image in  34.6550941467 ms
+           Executed SegNet in  626.259088516 ms
+         Processed results in  46.3800430298 ms
+
+   Grabbed Input and Label in  27.8809070587 ms
+          Preprocess image in  42.181968689 ms
+           Executed SegNet in  631.042003632 ms
+         Processed results in  45.5360412598 ms
+
+   Grabbed Input and Label in  30.289888382 ms
+          Preprocess image in  42.350769043 ms
+           Executed SegNet in  625.833034515 ms
+         Processed results in  45.835018158 ms
+
+   Grabbed Input and Label in  30.9610366821 ms
+          Preprocess image in  42.6530838013 ms
+           Executed SegNet in  633.527994156 ms
+         Processed results in  37.7130508423 ms
+
+   Grabbed Input and Label in  22.9930877686 ms
+          Preprocess image in  34.6219539642 ms
+           Executed SegNet in  635.51402092 ms
+         Processed results in  37.4898910522 ms
+
+   Grabbed Input and Label in  22.9480266571 ms
+          Preprocess image in  33.60414505 ms
+           Executed SegNet in  627.313137054 ms
+         Processed results in  37.7430915833 ms
+
+   Grabbed Input and Label in  22.0851898193 ms
+          Preprocess image in  34.1210365295 ms
+           Executed SegNet in  633.798122406 ms
+         Processed results in  38.1140708923 ms
+
+   Grabbed Input and Label in  22.1028327942 ms
+          Preprocess image in  33.4739685059 ms
+           Executed SegNet in  632.078886032 ms
+         Processed results in  37.9049777985 ms
+
+   Grabbed Input and Label in  22.5369930267 ms
+          Preprocess image in  33.833026886 ms
+           Executed SegNet in  629.886865616 ms
+         Processed results in  44.8970794678 ms
+
+   Grabbed Input and Label in  29.1450023651 ms
+          Preprocess image in  43.1201457977 ms
+           Executed SegNet in  638.733148575 ms
+         Processed results in  46.138048172 ms
+
+   Grabbed Input and Label in  27.8849601746 ms
+          Preprocess image in  42.2129631042 ms
+           Executed SegNet in  631.684064865 ms
+         Processed results in  45.0110435486 ms
+
+   Grabbed Input and Label in  29.2339324951 ms
+          Preprocess image in  42.3040390015 ms
+           Executed SegNet in  633.944988251 ms
+         Processed results in  47.2710132599 ms
+
+   Grabbed Input and Label in  31.0561656952 ms
+          Preprocess image in  42.163848877 ms
+           Executed SegNet in  631.051063538 ms
+         Processed results in  45.5689430237 ms
+
+   Grabbed Input and Label in  30.9238433838 ms
+          Preprocess image in  42.0620441437 ms
+           Executed SegNet in  625.633001328 ms
+         Processed results in  38.8350486755 ms
+
+   Grabbed Input and Label in  22.4559307098 ms
+          Preprocess image in  33.481836319 ms
+           Executed SegNet in  631.655931473 ms
+         Processed results in  38.0711555481 ms
+
+   Grabbed Input and Label in  22.2940444946 ms
+          Preprocess image in  33.9179039001 ms
+           Executed SegNet in  635.671854019 ms
+         Processed results in  37.1088981628 ms
+
+   Grabbed Input and Label in  21.2891101837 ms
+          Preprocess image in  33.595085144 ms
+           Executed SegNet in  632.099151611 ms
+         Processed results in  38.9401912689 ms
+
+   Grabbed Input and Label in  21.6069221497 ms
+          Preprocess image in  33.5230827332 ms
+           Executed SegNet in  626.939058304 ms
+         Processed results in  37.6160144806 ms
+
+   Grabbed Input and Label in  21.0449695587 ms
+          Preprocess image in  34.7950458527 ms
+           Executed SegNet in  626.230955124 ms
+         Processed results in  46.3740825653 ms
+
+   Grabbed Input and Label in  29.4210910797 ms
+          Preprocess image in  42.042016983 ms
+           Executed SegNet in  629.055976868 ms
+         Processed results in  46.0560321808 ms
+
+   Grabbed Input and Label in  30.177116394 ms
+          Preprocess image in  41.9771671295 ms
+           Executed SegNet in  631.878137589 ms
+         Processed results in  45.1500415802 ms
+
+   Grabbed Input and Label in  31.2519073486 ms
+          Preprocess image in  42.2849655151 ms
+           Executed SegNet in  633.089065552 ms
+         Processed results in  48.3090877533 ms
+
+   Grabbed Input and Label in  30.1821231842 ms
+          Preprocess image in  42.1390533447 ms
+           Executed SegNet in  631.198167801 ms
+         Processed results in  46.1630821228 ms
+
+   Grabbed Input and Label in  29.363155365 ms
+          Preprocess image in  42.4890518188 ms
+           Executed SegNet in  633.66317749 ms
+         Processed results in  37.3299121857 ms
+
+   Grabbed Input and Label in  23.430109024 ms
+          Preprocess image in  34.0979099274 ms
+           Executed SegNet in  632.009983063 ms
+         Processed results in  38.3698940277 ms
+
+   Grabbed Input and Label in  21.7700004578 ms
+          Preprocess image in  33.5929393768 ms
+           Executed SegNet in  632.310152054 ms
+         Processed results in  37.0190143585 ms
+
+   Grabbed Input and Label in  21.7409133911 ms
+          Preprocess image in  33.7858200073 ms
+           Executed SegNet in  632.348060608 ms
+         Processed results in  37.24193573 ms
+
+   Grabbed Input and Label in  22.8049755096 ms
+          Preprocess image in  33.5509777069 ms
+           Executed SegNet in  627.475976944 ms
+         Processed results in  37.8890037537 ms
+
+   Grabbed Input and Label in  22.1190452576 ms
+          Preprocess image in  33.6790084839 ms
+           Executed SegNet in  619.934082031 ms
+         Processed results in  37.3091697693 ms
+
+   Grabbed Input and Label in  22.1900939941 ms
+          Preprocess image in  33.6768627167 ms
+           Executed SegNet in  636.541843414 ms
+         Processed results in  47.2791194916 ms
+
+   Grabbed Input and Label in  30.5960178375 ms
+          Preprocess image in  42.3889160156 ms
+           Executed SegNet in  631.441116333 ms
+         Processed results in  45.9079742432 ms
+
+   Grabbed Input and Label in  30.1671028137 ms
+          Preprocess image in  44.30103302 ms
+           Executed SegNet in  628.937005997 ms
+         Processed results in  46.2539196014 ms
+
+   Grabbed Input and Label in  30.3020477295 ms
+          Preprocess image in  42.3390865326 ms
+           Executed SegNet in  630.084991455 ms
+         Processed results in  45.0179576874 ms
+
+   Grabbed Input and Label in  29.4680595398 ms
+          Preprocess image in  42.2930717468 ms
+           Executed SegNet in  634.803056717 ms
+         Processed results in  40.8520698547 ms
+
+   Grabbed Input and Label in  21.1360454559 ms
+          Preprocess image in  33.5578918457 ms
+           Executed SegNet in  628.367900848 ms
+         Processed results in  37.6470088959 ms
+
+   Grabbed Input and Label in  22.6540565491 ms
+          Preprocess image in  33.4069728851 ms
+           Executed SegNet in  619.8990345 ms
+         Processed results in  37.6291275024 ms
+
+   Grabbed Input and Label in  22.5789546967 ms
+          Preprocess image in  33.8928699493 ms
+           Executed SegNet in  636.495828629 ms
+         Processed results in  37.9548072815 ms
+
+   Grabbed Input and Label in  23.2629776001 ms
+          Preprocess image in  33.5750579834 ms
+           Executed SegNet in  627.367973328 ms
+         Processed results in  37.2848510742 ms
+
+   Grabbed Input and Label in  22.8559970856 ms
+          Preprocess image in  33.2849025726 ms
+           Executed SegNet in  633.433103561 ms
+         Processed results in  48.1741428375 ms
+
+   Grabbed Input and Label in  31.4149856567 ms
+          Preprocess image in  42.2081947327 ms
+           Executed SegNet in  623.271942139 ms
+         Processed results in  45.2351570129 ms
+
+   Grabbed Input and Label in  32.0029258728 ms
+          Preprocess image in  43.9970493317 ms
+           Executed SegNet in  629.398107529 ms
+         Processed results in  46.6380119324 ms
+
+   Grabbed Input and Label in  29.8690795898 ms
+          Preprocess image in  41.8980121613 ms
+           Executed SegNet in  633.988857269 ms
+         Processed results in  45.6011295319 ms
+
+   Grabbed Input and Label in  31.4450263977 ms
+          Preprocess image in  42.0169830322 ms
+           Executed SegNet in  611.597061157 ms
+         Processed results in  49.4050979614 ms
+
+   Grabbed Input and Label in  29.9701690674 ms
+          Preprocess image in  42.9441928864 ms
+           Executed SegNet in  603.20520401 ms
+         Processed results in  37.7299785614 ms
+
+   Grabbed Input and Label in  23.1120586395 ms
+          Preprocess image in  34.5420837402 ms
+           Executed SegNet in  620.903968811 ms
+         Processed results in  37.5649929047 ms
+
+   Grabbed Input and Label in  22.4208831787 ms
+          Preprocess image in  34.7499847412 ms
+           Executed SegNet in  605.901002884 ms
+         Processed results in  37.7960205078 ms
+
+   Grabbed Input and Label in  21.5840339661 ms
+          Preprocess image in  33.3890914917 ms
+           Executed SegNet in  603.06096077 ms
+         Processed results in  37.4732017517 ms
+
+   Grabbed Input and Label in  23.0810642242 ms
+          Preprocess image in  34.2121124268 ms
+           Executed SegNet in  601.474046707 ms
+         Processed results in  38.241147995 ms
+
+   Grabbed Input and Label in  21.1379528046 ms
+          Preprocess image in  33.3168506622 ms
+           Executed SegNet in  616.070985794 ms
+         Processed results in  37.3220443726 ms
+
+   Grabbed Input and Label in  23.1900215149 ms
+          Preprocess image in  35.7890129089 ms
+           Executed SegNet in  606.476068497 ms
+         Processed results in  46.9119548798 ms
+
+   Grabbed Input and Label in  31.8801403046 ms
+          Preprocess image in  41.9490337372 ms
+           Executed SegNet in  613.085031509 ms
+         Processed results in  45.6871986389 ms
+
+   Grabbed Input and Label in  30.9829711914 ms
+          Preprocess image in  41.9771671295 ms
+           Executed SegNet in  618.286132812 ms
+         Processed results in  47.6441383362 ms
+
+Processed:  233
+Success!
